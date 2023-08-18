@@ -75,7 +75,7 @@
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
 'country of citizenship': 'Country of citizenship'
-'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
+'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
@@ -495,9 +495,9 @@
 #Z_02031_1
 'labour productivity': 'Labour productivity'
 #Z_02041_1
-'organically farmed agricultural land (data from the federal statistical office)': 'Organically farmed agricultural land (data from the Federal Statistical Office)'
+'data from the federal statistical office': 'Data from the Federal Statistical Office'
 #Z_02041_2
-'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Organically farmed agricultural land (data from the Federal Ministry of Food and Agriculture)'
+'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
 #Z_02051_1
 'plant genetic resources': 'Plant genetic resources'
 #Z_02051_2
@@ -555,7 +555,7 @@
 #Z_03072_1
 'births of young women': 'Births of young women'
 #Z_03082_1
-'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-households with high expenditure on health in relation to total household expenditure'
+'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_2
@@ -768,8 +768,6 @@
 'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
-#Z_09081_1
-'households covered by a mobile network': 'Households covered by a mobile network'
 #Z_10011_3
 'growth rate of per capita income': 'Growth rate of per capita income'
 #Z_10021_1
@@ -1092,6 +1090,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
