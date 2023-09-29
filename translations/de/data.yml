@@ -66,7 +66,7 @@
 'outcome of the application process': 'Ausgang des Antragsverfahrens'
 'disability status': 'Behinderungsstatus'
 'policy area': 'Politikbereiche'
-'domain': 'Bereich'
+'stages of the food chain': 'Stufen der Lebensmittelkette'
 'economic activity': 'Wirtschaftszweig'
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
@@ -75,7 +75,7 @@
 'länder': 'Bundesland'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
-'functions': 'Aufgabenbereiche'
+'function': 'Aufgabenbereich'
 'country of citizenship': 'Herkunftsland'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
@@ -227,8 +227,10 @@
 'domain 5. mobility dimensions of crises': 'Bereich 5. Mobilitätsdimensionen von Krisen'
 'domain 6. safe, orderly and regular migration': 'Bereich 6. Sichere, geordnete und reguläre Migration'
 'private households': 'Private Haushalte'
-'restaurants and catering services': 'Gaststätten und Verpflegungsdienste'
-'retail/distribution': 'Einzelhandel/Vertrieb'
+'primary production': 'Primärerzeugung'
+'processing and production': 'Verarbeitung und Herstellung'
+'restaurants and food services': 'Gaststätten und Verpflegungsdienstleistungen'
+'retail and other distribution of food': 'Einzelhandel und andere Formen des Vertriebs'
 'services': 'Dienstleistungen'
 'forestry': 'Forstwirtschaft'
 'agriculture, forestry and fishing': 'Land- und Forstwirtschaft, Fischerei'
@@ -324,10 +326,10 @@
 'medical doctors': 'Ärzte'
 'nursing and midwifery personnel': 'Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe'
 'dentists': 'Zahnärzte'
-'oda (commitments)': 'Zusagen (ODA)'
-'oda (gross disbursements)': 'Bruttoentwicklungsausgaben (ODA)'
-'oda and oof (commitments)': 'Zusagen (ODA and OOF)'
-'oda and oof (gross disbursements)': 'Bruttoausgaben (ODA und OOF)'
+'commitments (oda)': 'Zusagen (ODA)'
+'gross disbursements (oda)': 'Bruttoentwicklungsausgaben (ODA)'
+'commitments (oda and oof)': 'Zusagen (ODA and OOF)'
+'gross disbursements (oda and oof)': 'Bruttoausgaben (ODA und OOF)'
 'public': 'Öffentlich'
 'private': 'Privat'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -469,9 +471,6 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-'judiciary': 'Justiz'
-'working age population': 'Bevölkerung im erwerbsfähigen Alter'
-'public service': 'Öffentlichen Dienst'
 
 #Zeitreihen
 #Z_01021_1a
@@ -492,6 +491,8 @@
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
+#Z_01062_1
+'government expenditure': 'Staatsausgaben'
 #Z_01062_3a
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 #Z_02011_1
@@ -707,7 +708,7 @@
 #Z_07021_2
 'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
 #Z_07031_1
-'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen in Primärenergie in Relation zum BIP'
+'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
 #Z_08011_1
 'annual growth rate of real gdp per capita': 'Jährliche Wachstumsrate des realen BIP pro Kopf'
 #Z_08021_1
@@ -729,7 +730,7 @@
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)'
 #Z_08071_1
-'young victims being exploited or intended to being exploited': 'Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen'
+'children and young people being exploited': 'Kinder und Jugendliche, die ausgebeutet werden'
 #Z_08081_1
 'fatal occupational accidents': 'Tödliche Arbeitsunfälle'
 #Z_08081_2
@@ -860,6 +861,8 @@
 'victims of physical harassment': 'Opfer körperlicher Belästigung'
 #Z_11072_2
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
+#Z_12031_1
+'(b) food waste index': 'b) Index der Lebensmittelverschwendung'
 #Z_12041_1
 'basel convention': 'Basler Übereinkommen'
 #Z_12041_2
@@ -905,9 +908,9 @@
 #Z_14051_4
 'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
 #Z_14061_1
-'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Umsetzungsgrad internationaler Übereinkünfte zur Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14071_1
-'sustainable fisheries to gdp': 'Nachhaltigen Fischerei am BIP'
+'sustainable fisheries to gdp': 'Nachhaltige Fischerei am BIP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14091_1
@@ -974,10 +977,28 @@
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
+#Z_16013_1
+'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
+#Z_16013_2
+'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
+#Z_16013_3
+'victims of criminal offences': 'Opfer von Straftaten'
+#Z_16013_4
+'population who were exposed to sexual violence': 'Bevölkerung, die sexueller Gewalt ausgesetzt war'
+#Z_16014_1
+'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
+#Z_16014_2
+'population not living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
+#Z_16014_3
+'feeling of (in)security of the population in its neighbourhood (during the day)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber)'
 #Z_16021_1
 'children at acute risk of harm with signs of abuse': 'Akute Kindeswohlgefährdung mit Anzeichen für Misshandlung'
 #Z_16022_1
 'victims of human trafficking': 'Opfer von Menschenhandel'
+#Z_16031_1
+'reporting rate for physical assault': 'Anzeigequote bei Körperverletzung'
+#Z_16031_2
+'reporting rate for robbery': 'Anzeigequote bei Raub'
 #Z_16032_1
 'unsentenced detainees': 'Nicht strafrechtlich verurteilte Inhaftierte'
 #Z_16033_1
@@ -1224,7 +1245,7 @@ area2: Bereich
 'gender pay gap': 'Verdienstabstand'
 'unemployment rate': 'Erwerbslosenquote'
 'neet rates from young people (15 to under 25 years)': 'NEET-Rate von Jugendliche (15 bis unter 25 Jahre)'
-'young victims being exploited or intended to being exploited': 'Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen'
+'children and young people being exploited': 'Kinder und Jugendliche, die ausgebeutet werden'
 'fatal occupational accidents': 'Tödliche Arbeitsunfälle'
 'non-fatal occupational accidents': 'Nicht-tödliche Arbeitsunfälle'
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationalen Gesetzesgrundlagen'
@@ -1310,7 +1331,7 @@ area2: Bereich
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
 'marine areas covered by protected areas': 'Meeresfläche, die unter Schutz steht'
 'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
-'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Umsetzungsgrad internationaler Übereinkünfte zur Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 'sustainable fisheries to gdp': 'Nachhaltigen Fischerei am BIP'
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 'degree of recognition and protection of access rights for small-scale fisheries': 'Grad der Anerkennung und des Schutzes von Zugangsrechten für Kleinfischerei'
@@ -1357,6 +1378,8 @@ area2: Bereich
 'population satisfied with their experience of government services during the previous two years': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
 'working-age population': 'Bevölkerung im erwerbsfähigen Alter'
 'german bundestag (lower chamber)': 'Deutscher Bundestag'
+'public service': 'Öffentlicher Dienst'
+'judiciary': 'Justiz'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
 'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
@@ -1395,6 +1418,17 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'domain': 'Bereich'
+'functions': 'Aufgabenbereiche'
+'restaurants and catering services': 'Gaststätten und Verpflegungsdienste'
+'retail/distribution': 'Einzelhandel/Vertrieb'
+'oda (commitments)': 'Zusagen (ODA)'
+'oda (gross disbursements)': 'Bruttoentwicklungsausgaben (ODA)'
+'oda and oof (commitments)': 'Zusagen (ODA and OOF)'
+'oda and oof (gross disbursements)': 'Bruttoausgaben (ODA und OOF)'
+'working age population': 'Bevölkerung im erwerbsfähigen Alter'
+'young victims being exploited or intended to being exploited': 'Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen'
+'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 'type of disease': 'Art der Erkrankung'
 'sdg indicator 4.2.2': 'SDG-Indikator 4.2.2'
 'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Erwachsene Bevölkerung, die über ein festgelegtes Mindestniveau in a) Lesen und b) Rechnen verfügt'

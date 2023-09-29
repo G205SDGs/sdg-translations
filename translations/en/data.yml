@@ -66,7 +66,7 @@
 'outcome of the application process': 'Outcome of the application process'
 'disability status': 'Disability status'
 'policy area': 'Policy area'
-'domain': 'Domain'
+'stages of the food chain': 'Stages of the food chain'
 'economic activity': 'Economic activity'
 'education level': 'Education level'
 'ownership': 'Ownership'
@@ -75,7 +75,7 @@
 'länder': 'Länder'
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
-'functions': 'Functions'
+'function': 'Function'
 'country of citizenship': 'Country of citizenship'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income quintile': 'Income quintile'
@@ -227,8 +227,10 @@
 'domain 5. mobility dimensions of crises': 'Domain 5. Mobility dimensions of crises'
 'domain 6. safe, orderly and regular migration': 'Domain 6. Safe, orderly and regular migration'
 'private households': 'Private households'
-'restaurants and catering services': 'Restaurants and catering services'
-'retail/distribution': 'Retail/Distribution'
+'primary production': 'Primary production'
+'processing and production': 'Processing and production'
+'restaurants and food services': 'Restaurants and food services'
+'retail and other distribution of food': 'Retail and other distribution of food'
 'services': 'Services'
 'forestry': 'Forestry'
 'agriculture, forestry and fishing': 'Agriculture, forestry and fishing'
@@ -324,10 +326,10 @@
 'medical doctors': 'Medical doctors'
 'nursing and midwifery personnel': 'Nursing and midwifery personnel'
 'dentists': 'Dentists'
-'oda (commitments)': 'ODA (commitments)'
-'oda (gross disbursements)': 'ODA (gross disbursements)'
-'oda and oof (commitments)': 'ODA and OOF (commitments)'
-'oda and oof (gross disbursements)': 'ODA and OOF (gross disbursements)'
+'commitments (oda)': 'Commitments (ODA)'
+'gross disbursements (oda)': 'Gross disbursements (ODA)'
+'commitments (oda and oof)': 'Commitments (ODA and OOF)'
+'gross disbursements (oda and oof)': 'Gross disbursements (ODA and OOF)'
 'public': 'Public'
 'private': 'Private'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -469,9 +471,6 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
-'judiciary': 'Judiciary'
-'working age population': 'Working age population'
-'public service': 'Public service'
 
 #Time series
 #Z_01021_1a
@@ -492,6 +491,8 @@
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
+#Z_01062_1
+'government expenditure': 'Government expenditure'
 #Z_01062_3a
 'government expenditure on social protection': 'Government expenditure on social protection'
 #Z_02011_1
@@ -729,7 +730,7 @@
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
 #Z_08071_1
-'young victims being exploited or intended to being exploited': 'Young victims being exploited or intended to being exploited'
+'children and young people being exploited': 'Children and young people being exploited'
 #Z_08081_1
 'fatal occupational accidents': 'Fatal occupational accidents'
 #Z_08081_2
@@ -860,6 +861,8 @@
 'victims of physical harassment': 'Victims of physical harassment'
 #Z_11072_2
 'victims of sexual harassment': 'Victims of sexual harassment'
+#Z_12031_1
+'(b) food waste index': '(b) food waste index'
 #Z_12041_1
 'basel convention': 'Basel Convention'
 #Z_12041_2
@@ -905,7 +908,7 @@
 #Z_14051_4
 'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
 #Z_14061_1
-'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
+'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing'
 #Z_14071_1
 'sustainable fisheries to gdp': 'Sustainable fisheries to GDP'
 #Z_14081_1
@@ -974,10 +977,28 @@
 'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
+#Z_16013_1
+'population who were exposed to physical violence': 'Population who were exposed to physical violence'
+#Z_16013_2
+'population who were victims of criminal offences': 'Population who were victims of criminal offences'
+#Z_16013_3
+'victims of criminal offences': 'Victims of criminal offences'
+#Z_16013_4
+'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
+#Z_16014_1
+'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
+#Z_16014_2
+'population not living in an area with crime, violence or vandalism': 'Population not living in an area with crime, violence or vandalism'
+#Z_16014_3
+'feeling of (in)security of the population in its neighbourhood (during the day)': 'Feeling of (in)security of the population in its neighbourhood (during the day)'
 #Z_16021_1
 'children at acute risk of harm with signs of abuse': 'Children at acute risk of harm with signs of abuse'
 #Z_16022_1
 'victims of human trafficking': 'Victims of human trafficking'
+#Z_16031_1
+'reporting rate for physical assault': 'Reporting rate for physical assault'
+#Z_16031_2
+'reporting rate for robbery': 'Reporting rate for robbery'
 #Z_16032_1
 'unsentenced detainees': 'Unsentenced detainees'
 #Z_16033_1
@@ -1220,7 +1241,7 @@ area2: Area
 'gender pay gap': 'Gender Pay Gap'
 'unemployment rate': 'Unemployment rate'
 'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
-'young victims being exploited or intended to being exploited': 'Young victims being exploited or intended to being exploited'
+'children and young people being exploited': 'Children and young people being exploited'
 'fatal occupational accidents': 'Fatal occupational accidents'
 'non-fatal occupational accidents': 'Non-fatal occupational accidents'
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation'
@@ -1306,7 +1327,7 @@ area2: Area
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
 'marine areas covered by protected areas': 'Marine areas covered by protected areas'
 'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
-'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
+'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing'
 'sustainable fisheries to gdp': 'Sustainable fisheries to GDP'
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
 'degree of recognition and protection of access rights for small-scale fisheries': 'Degree of recognition and protection of access rights for small-scale fisheries'
@@ -1353,6 +1374,8 @@ area2: Area
 'population satisfied with their experience of government services during the previous two years': 'Population satisfied with their experience of government services during the previous two years'
 'working-age population': 'Working-age population'
 'german bundestag (lower chamber)': 'German Bundestag (lower chamber)'
+'public service': 'Public service'
+'judiciary': 'Judiciary'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 'children under 5 years of age whose births have been registered with a civil authority': 'Children under 5 years of age whose births have been registered with a civil authority'
 'total score from unesco survey on public access to information': 'Total Score from UNESCO Survey on Public Access to Information'
@@ -1391,6 +1414,17 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'domain': 'Domain'
+'functions': 'Functions'
+'restaurants and catering services': 'Restaurants and catering services'
+'retail/distribution': 'Retail/Distribution'
+'oda (commitments)': 'ODA (commitments)'
+'oda (gross disbursements)': 'ODA (gross disbursements)'
+'oda and oof (commitments)': 'ODA and OOF (commitments)'
+'oda and oof (gross disbursements)': 'ODA and OOF (gross disbursements)'
+'working age population': 'Working age population'
+'young victims being exploited or intended to being exploited': 'Young victims being exploited or intended to being exploited'
+'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
 'type of disease': 'Type of disease'
 'sdg indicator 4.2.2': 'SDG indicator 4.2.2'
 'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
