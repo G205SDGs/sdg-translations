@@ -1,3 +1,34 @@
+1_start: Start
+1_start_2_dns_platform: National indicators <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Click here to get to the dns platform" alt="Link DNS" style="width:24px;height:24px;"/>
+1_start_2_dns_platform_path: 'https://dns-indicators.de'
+1_start_2_sdg_platform: Global indicators <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Click here to get to the sdg platform" alt="Link SDG" style="width:24px;height:24px;"/>
+1_about: Topics
+1_about_2_dns: "German Sustainable Developmnet Strategy (DNS)"
+1_about_2_dns_3_indicators: Monitoring
+1_about_2_dns_3_indicators_path: 'https://dns-indicators.de/about/dns/monitoring'
+1_about_2_dns_3_publications: Publications
+1_about_2_dns_3_publications_path: 'https://dns-indicators.de/about/dns/publications/'
+# 1_about_2_dns_3_publications_4_indicatorset: DNS-Set of indicators
+# 1_about_2_dns_3_publications_4_indicatorset_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/dns_indicators'
+# 1_about_2_dns_3_publications_4_reports: Indicator Reports
+# 1_about_2_dns_3_publications_4_reports_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/reports/'
+# 1_about_2_dns_3_publications_4_others: Other publications
+# 1_about_2_dns_3_publications_4_others_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/other'
+1_about_2_sdg: "2030 Agenda (SDG)"
+1_about_2_sdg_3_indicators: Monitoring
+1_about_2_sdg_3_publications: Publications
+# 1_about_2_sdg_3_publications_4_indicatorset: SDG-Set of indicators
+# 1_about_2_sdg_3_publications_4_wista: Auszug aus der Publikation "WISTA-Wirtschaft und Statistik", 5/2016
+# 1_about_2_sdg_3_publications_4_hlpf: Berichte zum HLPF
+1_about_2_joint_action: Joint Action
+1_about_2_joint_action_path: 'https://dns-indicators.de/about/joint_action/'
+1_reporting_status: Reporting status
+1_other_countries: Worldwide
+1_help: Help
+1_help_2_navigation: Structure of the online platform
+1_help_2_guidance: Technical guidance
+1_help_2_faq: FAQ
+
 menu: Menu
 reporting_status: Data&nbspavailability
 about: About us
@@ -8,13 +39,13 @@ about_guidance: Technical instructions
 about_this_site: About&nbspthis&nbspsite
 agenda: 2030 Agenda
 canada: Canada
+domrepcongo: Democratic Republic of the Congo
 montenegro: Montenegro
 platform: platform
 publications: Publications
 guidance: Guidance
-linkToDnsPlatform: <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS%20Wheel.png" title="To the page of the national indicators" alt="Link DNS" style="width:24px;height:24px;"/>
+linkToDnsPlatform: <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="To the page of the national indicators" alt="Link DNS" style="width:24px;height:24px;"/>
 faq: FAQs
-domrepcongo: Democratic Republic of the Congo
 facts: Useful information
 facts_agenda: 2030 Agenda
 facts_dns: German Sustainable Development Strategy (DNS)
@@ -22,13 +53,13 @@ contact_us: Contact us
 cookies: Cookies
 imprint: Legal Notice
 indicator_status: Indicator status
-other_countries: Open SDG platforms of other countries
+other_countries: Platforms of other countries
 status: Methodology
 status_summary: Summary
 status_title: Evaluation
 contactPath: "https://www.destatis.de/EN/Service/Contact/_Contact.html"
-twitterPath: "https://twitter.com/destatis?lang=en"
 turkey: Turkey
+twitterPath: "https://twitter.com/destatis?lang=en"
 international: International
 armenia: Armenia
 bosnia_and_herzegovina: Bosnia and Herzegovina

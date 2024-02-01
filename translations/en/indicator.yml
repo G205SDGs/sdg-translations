@@ -28,6 +28,7 @@ download_csv_title: Download as CSV
 source: Data source
 sources: Data sources
 statistics: Statistics
+topic: Topic
 geographical_area: Geographic coverage
 unit_of_measurement: Unit of measurement
 computation_units_plural: Units of measurement
@@ -40,10 +41,9 @@ dataset_size_warning: There are too many datasets to show on the chart. Not all
 view_indicator_list: View this goal's indicator list
 sub_categories: Selection
 sub_categories_dns: Sub-categories
-series: Series
+series: Time series
 series_help: Please select here what should be displayed in the chart and/or the table.
 series_help_dns: Select here what should be displayed in the chart and in the table.
-tags: Field to display the indicator's reporting status
 legend_help: Click on the legend to remove individual lines from the chart.
 chart: Chart
 table: Table
@@ -57,8 +57,8 @@ national_metadata_blurb: The international organisations (custodian agencies) th
   comparability with the global metadata are presented. Please find further methodical and country-specific information in the related national metadata.
 global_metadata: Global Metadata
 global_metadata_blurb: This tab provides relevant information on the SDG indicators - such as the political target, the primary responsible organisation (custodian agency) and a link to the global metadata.
-  The <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank”>global metadata</a>
-  is provided by the Uited Nations Statistics Division.
+  The <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank” onclick="return confirm_alert('the United Nations Statistics Division');">global metadata</a>
+  is provided by the United Nations Statistics Division.
 history: Indicator status summary
 history_blurb: The synoptic table provides information about the evaluation of the indicator for Germany in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>
 edit: Edit
@@ -67,3 +67,5 @@ edit_metadata: Edit Metadata
 timeseries: Time series
 no_selection: No disaggregations are available for this indicator
 contentAndProgress: Content and progress
+proxy: proxy
+proxy_description: The series is not compliant to the global metadata but provides additional information.
