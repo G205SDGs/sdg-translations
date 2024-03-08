@@ -4,6 +4,7 @@
 'billion eur': 'Billion EUR'
 'dalys': 'DALYs'
 'eur': 'EUR'
+'euro per m³': 'Euro per m³'
 'eur per hour': 'EUR per hour'
 'income per capita': 'Income per capita'
 'gini coefficient': 'Gini coefficient'
@@ -357,8 +358,8 @@
 'education, science, research, cultural affairs': 'Education, science, research, cultural affairs'
 'health, environment, sports and recreation': 'Health, environment, sports and recreation'
 'finale score': 'Finale Score'
-'enabling environment': 'Enabling Environment'
-'institutions and participation': 'Institutions and Participation'
+'enabling environment': 'Enabling environment'
+'institutions and participation': 'Institutions and participation'
 'management instruments': 'Management Instruments'
 'financing': 'Financing'
 'general government': 'General government'
@@ -667,10 +668,16 @@
 'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'
 #Z_06032_3
 'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
+#Z_06041_1
+'change in water-use efficiency': 'Change in water-use efficiency'
+#Z_06041_2
+'water-use efficiency': 'Water-use efficiency'
 #Z_06042_1
 'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
 #Z_06042_2
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Level of water stress: share of withdrawal in renewable water resources, excluding cooling water'
+#Z_06051_1
+'degree of integrated water resources management implementation': 'Degree of integrated water resources management implementation'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Transboundary basin area with an operational arrangement for water cooperation'
 #Z_06061_1
@@ -789,20 +796,6 @@
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
-#Z_10051_1
-'capital to assets ratio': 'Capital to assets ratio'
-#Z_10051_2
-'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
-#Z_10051_3
-'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
-#Z_10051_4
-'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
-#Z_10051_5
-'return on assets': 'Return on assets'
-#Z_10051_6
-'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
-#Z_10051_7
-'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
 #Z_10072_1
 'state of migration policies': 'State of migration policies'
 #Z_10073_1
@@ -1109,6 +1102,13 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'capital to assets ratio': 'Capital to assets ratio'
+'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
+'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
+'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
+'return on assets': 'Return on assets'
+'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
+'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
 'classification': 'Classification'
 'frequency': 'Frequency'
 'country of citizenship': 'Country of citizenship'
@@ -1125,6 +1125,5 @@ area2: Area
 'topic': 'Topic'
 'type of water body': 'Type of water body'
 'water use efficiency': 'Water use efficiency'
-'degree of integrated water resources management implementation': 'Degree of integrated water resources management implementation'
 '(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
 '(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'

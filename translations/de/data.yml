@@ -4,6 +4,7 @@
 'billion eur': 'Milliarden EUR'
 'dalys': 'DALYs'
 'eur': 'EUR'
+'euro per m³': 'Euro pro m³'
 'eur per hour': 'EUR pro Stunde'
 'income per capita': 'Pro Kopf Einkommen'
 'gini coefficient': 'Gini-Koeffizient'
@@ -359,7 +360,7 @@
 'finale score': 'Endbewertung'
 'enabling environment': 'Rahmenbedingungen'
 'institutions and participation': 'Institutionen und Beteiligung'
-'management instruments': 'Management Instrumente'
+'management instruments': 'Managementinstrumente'
 'financing': 'Finanzierung'
 'general government': 'Staat'
 'corporations': 'Unternehmen'
@@ -667,10 +668,16 @@
 'flowing water with good ecological status for total phosphorous': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
 #Z_06032_3
 'groundwater mesuring points below the threshold value for nitrate': 'Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat'
+#Z_06041_1
+'change in water-use efficiency': 'Veränderung der Wassernutzungseffizienz'
+#Z_06041_2
+'water-use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
 'level of water stress: share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
 #Z_06042_2
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
+#Z_06051_1
+'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation'
 #Z_06061_1
@@ -789,20 +796,6 @@
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Umverteilende Wirkung der Fiskalpolitik'
-#Z_10051_1
-'capital to assets ratio': 'Eigenkapitalquote'
-#Z_10051_2
-'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
-#Z_10051_3
-'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
-#Z_10051_4
-'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
-#Z_10051_5
-'return on assets': 'Gesamtkapitalrentabilität'
-#Z_10051_6
-'liquid assets to short-term liabilities': 'Verbindlichkeiten'
-#Z_10051_7
-'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
@@ -1115,6 +1108,13 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'capital to assets ratio': 'Eigenkapitalquote'
+'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'return on assets': 'Gesamtkapitalrentabilität'
+'liquid assets to short-term liabilities': 'Verbindlichkeiten'
+'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 'classification': 'Klassifikation'
 'frequency': 'Häufigkeit'
 'country of citizenship': 'Herkunftsland'
@@ -1131,6 +1131,5 @@ area2: Bereich
 'topic': 'Themenbereich'
 'type of water body': 'Art des Gewässers'
 'water use efficiency': 'Wassernutzungseffizienz'
-'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 '(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
 '(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
