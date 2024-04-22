@@ -53,6 +53,7 @@
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
+'watt per capita': 'Watt per capita'
 'years': 'Years'
 
 #Categories
@@ -133,12 +134,14 @@
 '13 years and younger': '13 years and younger'
 '14 years and younger': '14 years and younger'
 '17 years and younger': '17 years and younger'
+'3 to under 5 years': '3 to under 5 years'
 '10 to under 15 years': '10 to under 15 years'
 '14 to under 18 years': '14 to under 18 years'
 '15 years': '15 years'
 '15.5 years': '15.5 years'
 '15 to under 20 years': '15 to under 20 years'
 '15 to under 25 years': '15 to under 25 years'
+'15 to under 50 years': '15 to under 50 years'
 '15 to under 65 years': '15 to under 65 years'
 '15 years and older': '15 years and older'
 '16 years': '16 years'
@@ -936,16 +939,6 @@
 '(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
 #Z_15051_1
 '"red list" index': '"Red List" Index'
-#Z_15061_1
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
-#Z_15061_2
-'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
-#Z_15061_3
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
-#Z_15061_4
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
-#Z_15061_5
-'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 #Z_15071_2
@@ -1070,8 +1063,6 @@
 'hours worked by persons employed': 'Hours worked by persons employed'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
-#Z_17151_4
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
 #Z_17171_1
@@ -1102,6 +1093,12 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
+'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 'capital to assets ratio': 'Capital to assets ratio'
 'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
 'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'

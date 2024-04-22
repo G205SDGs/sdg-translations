@@ -53,6 +53,7 @@
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
+'watt per capita': 'Watt pro Kopf'
 'years': 'Jahre'
 
 #Kategorien
@@ -133,12 +134,14 @@
 '13 years and younger': '13 Jahre und jünger'
 '14 years and younger': '14 Jahre und jünger'
 '17 years and younger': '17 Jahre und jünger'
+'3 to under 5 years': '3 bis unter 5 Jahre'
 '10 to under 15 years': '10 bis unter 15 Jahre'
 '14 to under 18 years': '14 bis unter 18 Jahre'
 '15 years': '15 Jahre'
 '15.5 years': '15,5 Jahre'
 '15 to under 20 years': '15 bis unter 20 Jahre'
 '15 to under 25 years': '15 bis unter 25 Jahre'
+'15 to under 50 years': '15 bis unter 50 Jahre'
 '15 to under 65 years': '15 bis unter 65 Jahre'
 '15 years and older': '15 Jahre und älter'
 '16 years': '16 Jahre'
@@ -936,16 +939,6 @@
 '(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
-#Z_15061_1
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
-#Z_15061_2
-'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
-#Z_15061_3
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
-#Z_15061_4
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
-#Z_15061_5
-'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
@@ -1070,8 +1063,6 @@
 'hours worked by persons employed': 'Geleistete Arbeitsstunden der Erwerbstätigen'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
-#Z_17151_4
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritte bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 #Z_17171_1
@@ -1108,6 +1099,12 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
+'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 'capital to assets ratio': 'Eigenkapitalquote'
 'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
 'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
