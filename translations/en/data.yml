@@ -63,6 +63,7 @@
 'area': 'Area'
 'area of law': 'Area of law'
 'bound': 'Bound'
+'cause of death': 'Cause of death'
 'availability': 'Availability'
 'conversion': 'Conversion'
 'outcome of the application process': 'Outcome of the application process'
@@ -79,7 +80,6 @@
 'function': 'Function'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'indicator': 'Indicator'
-'legislation': 'Legislation'
 'level of court': 'Level of court'
 'water use index': 'Water use index'
 'profession': 'Profession'
@@ -199,6 +199,16 @@
 'area 4: marriage and family': 'Area 4: Marriage and family'
 'upper bound': 'Upper bound'
 'lower bound': 'Lower bound'
+'victim of avalanche, landslide and other earth movements': 'Victim of avalanche, landslide and other earth movements'
+'exposure to excessive natural cold': 'Exposure to excessive natural cold'
+'victim of earthquake': 'Victim of earthquake'
+'victim of flood': 'Victim of flood'
+'exposure to excessive natural heat': 'Exposure to excessive natural heat'
+'victim of lightning': 'Victim of lightning'
+'exposure to other and unspecified forces of nature': 'Exposure to other and unspecified forces of nature'
+'victim of cataclysmic storm': 'Victim of cataclysmic storm'
+'exposure to sunlight': 'Exposure to sunlight'
+'victim of volcanic eruption': 'Victim of volcanic eruption'
 'no': 'No'
 'yes': 'Yes'
 'class 3 areas (elavation 2500-3500 meters)': 'Class 3 areas (elavation 2500-3500 meters)'
@@ -745,10 +755,6 @@
 'atms of national payment service providers': 'ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
-#Z_08111_1
-'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
-#Z_08111_2
-'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -940,7 +946,7 @@
 #Z_15051_1
 '"red list" index': '"Red List" Index'
 #Z_15071_1
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
+'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
 #Z_15091_1
@@ -1093,6 +1099,10 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'legislation': 'Legislation'
+'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
+'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
 'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
 'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
