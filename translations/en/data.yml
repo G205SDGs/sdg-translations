@@ -33,6 +33,7 @@
 'million usd, constant prices (2019)': 'Million USD, constant prices (2019)'
 'million usd, constant prices (2020)': 'Million USD, constant prices (2020)'
 'million usd, constant prices (2021)': 'Million USD, constant prices (2021)'
+'million usd, constant prices (2022)': 'Million USD, constant prices (2022)'
 'no unit': 'No unit'
 'number': 'Number'
 'per 100 inhabitants': 'Per 100 inhabitants'
@@ -65,6 +66,7 @@
 'bound': 'Bound'
 'cause of death': 'Cause of death'
 'availability': 'Availability'
+'completeness of disaggregation': 'Completeness of disaggregation'
 'conversion': 'Conversion'
 'outcome of the application process': 'Outcome of the application process'
 'disability status': 'Disability status'
@@ -84,6 +86,7 @@
 'water use index': 'Water use index'
 'profession': 'Profession'
 'pathogens and resistance': 'Pathogens and resistance'
+'part': 'Part'
 'percentile': 'Percentile'
 'fine particulate matter': 'Fine particulate matter'
 'political institution': 'Political institution'
@@ -215,6 +218,9 @@
 'class 4 areas (elavation 1500-2500 meters)': 'Class 4 areas (elavation 1500-2500 meters)'
 'class 5 areas (elavation 1000-1500 meters)': 'Class 5 areas (elavation 1000-1500 meters)'
 'class 6 areas (elavation 300-1000 meters)': 'Class 6 areas (elavation 300-1000 meters)'
+'fully disaggregated': 'Fully disaggregated'
+'not disaggregated': 'Not disaggregated'
+'partially disaggregated': 'Partially disaggregated'
 'by un factors': 'By UN factors'
 'by national factors': 'By national factors'
 'admissible applications': 'Admissible applications'
@@ -345,6 +351,9 @@
 'p90': 'P90'
 'p95': 'P95'
 'leasehold': 'Leasehold'
+'objectives': 'Objectives'
+'indicators': 'Indicators'
+'data': 'Data'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂.₅'
 'bundesrat (upper chamber)': 'Bundesrat (Upper chamber)'
@@ -755,6 +764,10 @@
 'atms of national payment service providers': 'ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
+#Z_08111_1
+'oda (commitments) for aid for trade': 'ODA (commitments) for aid for trade'
+#Z_08111_2
+'oda (gross disbursement) for aid for trade': 'ODA (gross disbursement) for aid for trade'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
