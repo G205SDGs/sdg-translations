@@ -76,7 +76,7 @@
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
 'enterprise definition': 'Unternehmensdefinition'
-'facilities': 'Ausstattung'
+'type of service': 'Versorgungsleistung'
 'länder': 'Bundesland'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'function': 'Aufgabenbereich'
@@ -86,7 +86,7 @@
 'water use index': 'Wassernutzungsindex'
 'profession': 'Beruf'
 'pathogens and resistance': 'Erreger und Resistenz'
-'part': 'Teil'
+'level': 'Ebene'
 'percentile': 'Perzentil'
 'fine particulate matter': 'Feinstaub'
 'political institution': 'Politische Institution'
@@ -255,10 +255,10 @@
 'property': 'Eigentum'
 'legal entities': 'Rechtliche Einheiten'
 'eu enterprise definition': 'EU-Unternehmensdefinition'
-'a) schools with access to electricity': 'a) Schulen mit Zugang zu Elektrizität'
-'e) schools with access to basic drinking water': 'e) Schulen mit Zugang zu Trinkwasser'
-'f) schools with access to single-sex basic sanitation facilities': 'f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen'
-'g) schools with access to basic handwashing facilities': 'g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen'
+'schools with access to electricity': 'Schulen mit Zugang zu Elektrizität'
+'schools with access to basic drinking water': 'Schulen mit Zugang zu Trinkwasser'
+'schools with access to single-sex basic sanitation facilities': 'Schulen mit Zugang zu geschlechterspezifischen, grundlegenden sanitären Anlagen'
+'schools with access to basic handwashing facilities': 'Schulen mit Zugang zu grundlegenden Einrichtungen zum Händewaschen'
 'baden-württemberg': 'Baden-Württemberg'
 'bavaria': 'Bayern'
 'rhineland palatinate': 'Rheinland-Pfalz'
@@ -376,12 +376,12 @@
 'water and sanitation': 'Wasser und Sanitär'
 '1 - no poverty': '1 - Keine Armut'
 '10 - reduced inequalities': '10 - Weniger Ungleichheiten'
-'11 - sustainable cities and communities': '11 -Nachhaltige Städte und Gemeinden'
+'11 - sustainable cities and communities': '11 - Nachhaltige Städte und Gemeinden'
 '12 - responsible consumption and production': '12 - Nachhaltige/r Konsum und Produktion'
 '15 - life on land': '15 - Leben an Land'
 '16 - peace and justice': '16 - Frieden, Gerechtigkeit und starke Institutionen'
 '17 - partnerships for the goals': '17 - Partnerschaften zur Erreichung der Ziele'
-'2 - zero hunger': '2 - Kein Huner'
+'2 - zero hunger': '2 - Kein Hunger'
 '3 - good health and well-being': '3 - Gesundheit und Wohlergehen'
 '4 - quality education': '4 - Hochwertige Bildung'
 '5 - gender equality': '5 - Geschlechtergleichheit'
@@ -735,11 +735,7 @@
 #Z_07011_2
 'households and small-sized enterprises connected to the electricity network': 'Haushalte und Kleinbetriebe mit Zugang zu Elektrizitätsnetzwerken'
 #Z_07012_1
-'population with primary reliance on clean fuels and technology': 'Bevölkerung mit überwiegender Abhängigkeit von sauberen Energieträgern und Technologien'
-#Z_07021_1
-'renewable energy in total final energy consumption': 'Erneuerbare Energien am gesamten Endenergieverbrauch'
-#Z_07021_2
-'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
+'population with primary reliance on clean fuels and technology': 'Bevölkerung, die vorwiegend saubere Energieträger und Technologien nutzt'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
 #Z_08011_1
@@ -883,7 +879,7 @@
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 #Z_11072_1
-'victims of physical harassment': 'Opfer körperlicher Belästigung'
+'victims of non-sexual harassment': 'Opfer nicht-sexueller Belästigung'
 #Z_11072_2
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 #Z_12031_1
@@ -1134,6 +1130,15 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'facilities': 'Ausstattung'
+'a) schools with access to electricity': 'a) Schulen mit Zugang zu Elektrizität'
+'e) schools with access to basic drinking water': 'e) Schulen mit Zugang zu Trinkwasser'
+'f) schools with access to single-sex basic sanitation facilities': 'f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen'
+'g) schools with access to basic handwashing facilities': 'g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen'
+'part': 'Teil'
+'renewable energy in total final energy consumption': 'Erneuerbare Energien am gesamten Endenergieverbrauch'
+'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
+'victims of physical harassment': 'Opfer körperlicher Belästigung'
 'watt per capita': 'Watt pro Kopf'
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 'implementation of the system of environmental-economic accounting (seea)': 'Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
