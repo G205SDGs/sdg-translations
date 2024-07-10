@@ -73,6 +73,7 @@
 'policy area': 'Politikbereiche'
 'stages of the food chain': 'Stufen der Lebensmittelkette'
 'economic activity': 'Wirtschaftszweig'
+'ecosystem': 'Ökosystem'
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
 'enterprise definition': 'Unternehmensdefinition'
@@ -246,6 +247,9 @@
 'agriculture, forestry and fishing': 'Land- und Forstwirtschaft, Fischerei'
 'agriculture': 'Landwirtschaft'
 'mimec': 'MIMEC'
+'large artificial or heavily modified lakes': 'Künstliche oder erheblich veränderte große Seen'
+'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
+'wetlands area': 'Feuchtgebiete'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
 'primary school completed': 'Abgeschlossene Grundschulausbildung'
@@ -399,7 +403,15 @@
 'management instruments': 'Managementinstrumente'
 'financing': 'Finanzierung'
 'general government': 'Staat'
+'transport and communications': 'Verkehrs- und Nachrichtenwesen'
+'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
 'corporations': 'Unternehmen'
+'general services': 'Allgemeine Dienste'
+'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
+'food, agriculture and forestry': 'Ernährung, Landwirtschaft und Forsten'
+'financial economy': 'Finanzwirtschaft'
+'health, environment, sport and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
+'social security, family and youth, labour market policy': 'Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 'direct transfers of funds': 'Direkte finanzielle Beihilfen'
@@ -449,7 +461,7 @@
 'pipelines: crude oil': 'Rohrfernleitungen: Rohöl'
 'people requiring interventions': 'Personen mit Behandlungsbedarf'
 'inpatient treatment': 'Stationäre Behandlung'
-'a) cardiovascular disease': 'a) Herz-Kreislauferkrankung'
+'a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 'leprosy': 'Lepra'
 'buruli ulcer': 'Buruli-Ulkus'
 'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
@@ -518,6 +530,8 @@
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
+#Z_01051_1
+'deaths attributed to natural forces': 'Naturkräften zugeschriebene Sterbefälle'
 #Z_01061_1
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 #Z_01061_2
@@ -664,8 +678,6 @@
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
-#Z_05041_1
-'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_3
 'women in a) national parliaments': 'Frauen in a) nationalen Parlamenten'
 #Z_05051_4
@@ -716,16 +728,12 @@
 'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation'
-#Z_06061_1
-'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
-#Z_06061_2
-'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
-#Z_06061_3
-'wetlands area': 'Feuchtgebiete'
-#Z_06061_4
-'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
-#Z_06061_5
-'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
+#Z_06061_7
+'area': 'Fläche'
+#Z_06061_8
+'area as a proportion of total land area': 'Fläche im Verhältnis zur gesamten Landfläche'
+#Z_06061_9
+'area change in comparison to 2015': 'Veränderung der Fläche im Vergleich zu 2015'
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
 #Z_06071_2
@@ -738,6 +746,8 @@
 'population with primary reliance on clean fuels and technology': 'Bevölkerung, die vorwiegend saubere Energieträger und Technologien nutzt'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
+#Z_07051_1
+'installed renewable energy-generating capacity': 'Installierte Kapazitäten zur Erzeugung erneuerbarer Energie'
 #Z_08011_1
 'annual growth rate of real gdp per capita': 'Jährliche Wachstumsrate des realen BIP pro Kopf'
 #Z_08021_1
@@ -883,7 +893,7 @@
 #Z_11072_2
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 #Z_12031_1
-'(b) food waste index': 'b) Index der Lebensmittelverschwendung'
+'(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
 'basel convention': 'Basler Übereinkommen'
 #Z_12041_2
@@ -968,12 +978,26 @@
 '(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
+#Z_15061_1
+'1) countries that are contracting parties to the international treaty on pgrfa': '1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind'
+#Z_15061_2
+'2) countries that are parties to the nagoya protocol': '2) Länder, die Vertragsparteien des Nagoya-Protokolls sind'
+#Z_15061_3
+'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden'
+#Z_15061_4
+'4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden'
+#Z_15061_5
+'5) total reported number of smtas transferring pgrfa to germany': '5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Genehmigte Ein- und Ausfuhren geschützter Arten'
+#Z_15081_1
+'a) national legislation and policy relevant to ias': 'a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS'
+#Z_15081_2
+'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB'
 #Z_15091_1
 '(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 #Z_15091_2
@@ -1024,8 +1048,6 @@
 'private persons (donors) suspected in the context of corruption offences': 'Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten'
 #Z_16052_1
 'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Unternehmen, die den Eindruck hatten, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
-#Z_16061_1
-'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
 #Z_16071_1
@@ -1094,12 +1116,16 @@
 'hours worked by persons employed': 'Geleistete Arbeitsstunden der Erwerbstätigen'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
+#Z_17151_4
+'country-owned results frameworks and planning tools': 'Ländereigene Ergebnisrahmen und Planungsinstrumente'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritte bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 #Z_17171_1
 'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 #Z_17171_2
 'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
+#Z_17181_1
+'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Indikatoren für nachhaltige Entwicklung mit den im Indikatorentitel geforderten Disaggregationen'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 #Z_17191_1
@@ -1112,6 +1138,17 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+
+#Zeichenerklärung
++++symbols: Zeichenerklärung
++++p: vorläufig
++++r: korrigiert
++++s: geschätzt
++++.: Zahlenwert unbekannt oder geheim zu halten
++++…: Angabe fällt später an
++++-: nicht vorhanden
++++x: Tabellenfach gesperrt, weil Aussage nicht sinnvoll
++++0: Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts
 
 #Zusatz
 total: Insgesamt
@@ -1130,49 +1167,17 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'facilities': 'Ausstattung'
-'a) schools with access to electricity': 'a) Schulen mit Zugang zu Elektrizität'
-'e) schools with access to basic drinking water': 'e) Schulen mit Zugang zu Trinkwasser'
-'f) schools with access to single-sex basic sanitation facilities': 'f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen'
-'g) schools with access to basic handwashing facilities': 'g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen'
-'part': 'Teil'
-'renewable energy in total final energy consumption': 'Erneuerbare Energien am gesamten Endenergieverbrauch'
-'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
-'victims of physical harassment': 'Opfer körperlicher Belästigung'
-'watt per capita': 'Watt pro Kopf'
-'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
-'implementation of the system of environmental-economic accounting (seea)': 'Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
-'legislation': 'Rechtsvorschrift'
-'oda and oof (commitments) for aid for trade': 'Zusagen (ODA und OOF) für Handelshilfe'
-'oda and oof (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe'
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
-'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
-'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
-'capital to assets ratio': 'Eigenkapitalquote'
-'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
-'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
-'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
-'return on assets': 'Gesamtkapitalrentabilität'
-'liquid assets to short-term liabilities': 'Verbindlichkeiten'
-'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
-'classification': 'Klassifikation'
-'frequency': 'Häufigkeit'
-'country of citizenship': 'Herkunftsland'
-'income quintile': 'Einkommensquintil'
-'items': 'Probleme'
-'marital status': 'Familienstand'
-'migratory status': 'Migrationsstatus'
-'unit multiplicator': 'Einheitsmultiplikator'
-'observation status': 'Beobachtungsstatus'
-'organisational form': 'Organisationsform'
-'product type': 'Produkttyp'
-'reporting type': 'Berichtstyp'
-'theme': 'Themengebiet'
-'topic': 'Themenbereich'
-'type of water body': 'Art des Gewässers'
-'water use efficiency': 'Wassernutzungseffizienz'
-'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
-'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
+'+++symbols': 'Zeichenerklärung'
+'+++p': 'vorläufig'
+'+++r': 'korrigiert'
+'+++s': 'geschätzt'
+'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
+'+++…': 'Angabe fällt später an'
+'+++-': 'nicht vorhanden'
+'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'+++0': 'Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts'
+'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
+'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
+'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
+'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
+'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
