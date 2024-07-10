@@ -695,7 +695,7 @@
 #Z_05071_3
 'agricultural holdings with the legal form of a sole proprietorship': 'Agricultural holdings with the legal form of a sole proprietorship'
 #Z_05072_1
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
+'realisation of guaranteed rights to ownership and/or control of land for women': 'Realisation of guaranteed rights to ownership and/or control of land for women'
 #Z_05081_1
 'mobile penetration rate': 'Mobile penetration rate'
 #Z_05081_2
@@ -1170,6 +1170,7 @@ area2: Area
 '+++-': 'not available'
 '+++x': 'Table compartment locked because statement does not make sense'
 '+++0': 'Less than half of 1 in the last position filled, but more than nothing'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
