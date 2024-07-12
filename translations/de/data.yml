@@ -841,6 +841,20 @@
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Umverteilende Wirkung der Fiskalpolitik'
+#Z_10051_1
+'capital to assets ratio': 'Eigenkapitalquote'
+#Z_10051_2
+'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+#Z_10051_3
+'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+#Z_10051_4
+'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+#Z_10051_5
+'return on assets': 'Gesamtkapitalrentabilität'
+#Z_10051_6
+'liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+#Z_10051_7
+'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
