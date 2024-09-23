@@ -11,6 +11,7 @@
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 'hectare': 'Hektar'
+'houres per day': 'Stunden pro Tag'
 'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -36,6 +37,7 @@
 'million usd, constant prices (2022)': 'Millionen USD, konstante Preise (2022)'
 'no unit': 'Keine Einheit'
 'number': 'Anzahl'
+'number of pieces of platic waste per 100 meters of beach length': 'Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie'
 'per 100 inhabitants': 'Je 100 Einwohner/-innen'
 'per 1,000 inhabitants': 'Je 1 000 Einwohner/-innen'
 'per 1,000 women of same age': 'Je 1 000 Frauen gleichen Alters'
@@ -118,6 +120,7 @@
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
+'type of unpaid work': 'Art der unbezahlten Arbeit'
 'degree of urbanisation': 'Verstädterungsgrad'
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
@@ -220,6 +223,8 @@
 'class 4 areas (elavation 1500-2500 meters)': 'Gebiete der Klasse 4 (Höhe 1500-2500 Meter)'
 'class 5 areas (elavation 1000-1500 meters)': 'Gebiete der Klasse 5 (Höhe 1000-1500 Meter)'
 'class 6 areas (elavation 300-1000 meters)': 'Gebiete der Klasse 6 (Höhe  300-1000 Meter)'
+'protection of biodiversity and landscape (cofog 5.4)': 'Arten- und Landschaftsschutz (COFOG 5.4)'
+'cultural services (cofog 8.2)': 'Kultur (COFOG 8.2)'
 'fully disaggregated': 'Vollständig disaggregiert'
 'not disaggregated': 'Nicht disaggregiert'
 'partially disaggregated': 'Teilweise disaggregiert'
@@ -253,7 +258,7 @@
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
 'primary school completed': 'Abgeschlossene Grundschulausbildung'
-'upper secondary school completed and post-secondary non-tertiary education': 'Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung'
+'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
 'b) at the end of primary education': 'b) Am Ende der Grundschule'
 'c) at the end of lower secondary education': 'c) Am Ende der Sekundarstufe I'
 'property': 'Eigentum'
@@ -404,12 +409,12 @@
 'financing': 'Finanzierung'
 'general government': 'Staat'
 'transport and communications': 'Verkehrs- und Nachrichtenwesen'
-'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
+'housing, urban development, regional planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
 'corporations': 'Unternehmen'
 'general services': 'Allgemeine Dienste'
-'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
+'energy and water management, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
 'food, agriculture and forestry': 'Ernährung, Landwirtschaft und Forsten'
-'financial economy': 'Finanzwirtschaft'
+'financial services': 'Finanzwirtschaft'
 'health, environment, sport and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
 'social security, family and youth, labour market policy': 'Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
@@ -505,6 +510,9 @@
 'towns and suburbs': 'Kleinere Städte und Vororte'
 'cities': 'Städte'
 'urban': 'Städte'
+'care work': 'Pflegearbeit'
+'domestic work': 'Hausarbeit'
+'domestic and care work': 'Haus- und Pflegearbeit'
 'other related purposes': 'Verwandte Zwecke'
 'deposit onto or into land and land treatment and release into water bodies': 'Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern'
 'energy recovery': 'Energierückgewinnung'
@@ -514,6 +522,20 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
+
+#Kennzeichen
++++symbols: Zeichenerklärung
+'+++0': weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts
+'+++-': nichts vorhanden
+'+++…': Angabe fällt später an
+'+++/': keine Angaben, da Zahlenwert nicht sicher genug
+'+++.': Zahlenwert unbekannt oder geheim zu halten
+'+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
+'+++( )': Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist
+'+++|': grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt
+'+++p': vorläufige Zahl
+'+++r': berichtigte Zahl
+'+++s': geschätzte Zahl
 
 #Zeitreihen
 #Z_01021_1a
@@ -621,9 +643,13 @@
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+#Z_03091_5
+'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+#Z_03091_6
+'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition mit Feinstaub (PMPM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -678,6 +704,8 @@
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
+#Z_05041_1
+'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_3
 'women in a) national parliaments': 'Frauen in a) nationalen Parlamenten'
 #Z_05051_4
@@ -744,9 +772,6 @@
 'households and small-sized enterprises connected to the electricity network': 'Haushalte und Kleinbetriebe mit Zugang zu Elektrizitätsnetzwerken'
 #Z_07012_1
 'population with primary reliance on clean fuels and technology': 'Bevölkerung, die vorwiegend saubere Energieträger und Technologien nutzt'
-
-'renewable energy in total final energy consumption': Erneuerbare Energien am gesamten Endenergieverbrauch
-'renewable energy in gross final energy consumption': Erneuerbare Energien am Bruttoendenergieverbrauch
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
 #Z_07051_1
@@ -764,7 +789,7 @@
 #Z_08042_2
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
 #Z_08051_1
-'average hourly earnings of employees': 'Durchschnittlicher Stundenlohn Beschäftigter'
+'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst Beschäftigter'
 #Z_08051_2
 'gender pay gap': 'Verdienstabstand'
 #Z_08052_1
@@ -782,9 +807,9 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Bruttowertschöpfung im Tourismusbereich'
 #Z_08101_1
-'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
+'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
-'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
+'b) atms of national payment service providers': 'b) Bankautomaten von inländischen Zahlungsdienstleistern'
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
@@ -841,20 +866,6 @@
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Umverteilende Wirkung der Fiskalpolitik'
-#Z_10051_1
-'capital to assets ratio': 'Eigenkapitalquote'
-#Z_10051_2
-'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
-#Z_10051_3
-'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
-#Z_10051_4
-'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
-#Z_10051_5
-'return on assets': 'Gesamtkapitalrentabilität'
-#Z_10051_6
-'liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
-#Z_10051_7
-'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
@@ -922,9 +933,9 @@
 #Z_12041_5
 'minamata convention': 'Minamata Übereinkommen'
 #Z_12042_1
-'hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
+'a) hazardous waste generated per capita': 'a) Aufkommen gefährlicher Abfälle'
 #Z_12042_2
-'hazardous waste treated': 'Behandelte gefährliche Abfälle'
+'b) hazardous waste treated': 'b) Behandelte gefährliche Abfälle'
 #Z_12051_1
 'national recycling rate': 'Nationale Recyclingquote'
 #Z_12051_2
@@ -1156,17 +1167,6 @@
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
 
-#Zeichenerklärung
-+++symbols: Zeichenerklärung
-+++p: vorläufig
-+++r: korrigiert
-+++s: geschätzt
-+++.: Zahlenwert unbekannt oder geheim zu halten
-+++…: Angabe fällt später an
-+++-: nicht vorhanden
-+++x: Tabellenfach gesperrt, weil Aussage nicht sinnvoll
-+++0: Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts
-
 #Zusatz
 total: Insgesamt
 timeseries: Zeitreihe
@@ -1188,13 +1188,26 @@ area2: Bereich
 '+++p': 'vorläufig'
 '+++r': 'korrigiert'
 '+++s': 'geschätzt'
-'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
-'+++…': 'Angabe fällt später an'
-'+++-': 'nicht vorhanden'
+'upper secondary school completed and post-secondary non-tertiary education': 'Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung'
+'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
+'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
+'financial economy': 'Finanzwirtschaft'
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+'renewable energy in total final energy consumption': 'Erneuerbare Energien am gesamten Endenergieverbrauch'
+'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
+'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
+'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
+'capital to assets ratio': 'Eigenkapitalquote'
+'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'return on assets': 'Gesamtkapitalrentabilität'
+'liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+'hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
+'hazardous waste treated': 'Behandelte gefährliche Abfälle'
 '+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'+++0': 'Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts'
 'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
-'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
 'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
 'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'

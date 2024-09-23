@@ -11,6 +11,7 @@
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 'hectare': 'Hectare'
+'houres per day': 'Houres per day'
 'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -36,6 +37,7 @@
 'million usd, constant prices (2022)': 'Million USD, constant prices (2022)'
 'no unit': 'No unit'
 'number': 'Number'
+'number of pieces of platic waste per 100 meters of beach length': 'Number of pieces of platic waste per 100 meters of beach length'
 'per 100 inhabitants': 'Per 100 inhabitants'
 'per 1 000 inhabitants': 'Per 1 000 inhabitants'
 'per 1 000 women of same age': 'Per 1 000 women of same age'
@@ -118,6 +120,7 @@
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
+'type of unpaid work': 'Type of unpaid work'
 'degree of urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
@@ -220,6 +223,8 @@
 'class 4 areas (elavation 1500-2500 meters)': 'Class 4 areas (elavation 1500-2500 meters)'
 'class 5 areas (elavation 1000-1500 meters)': 'Class 5 areas (elavation 1000-1500 meters)'
 'class 6 areas (elavation 300-1000 meters)': 'Class 6 areas (elavation 300-1000 meters)'
+'protection of biodiversity and landscape (cofog 5.4)': 'Protection of biodiversity and landscape (COFOG 5.4)'
+'cultural services (cofog 8.2)': 'Cultural services (COFOG 8.2)'
 'fully disaggregated': 'Fully disaggregated'
 'not disaggregated': 'Not disaggregated'
 'partially disaggregated': 'Partially disaggregated'
@@ -253,7 +258,7 @@
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Bachelor/equivalent degree completed and masters/equivalent degree or above'
 'lower secondary school completed': 'Lower secondary school completed'
 'primary school completed': 'Primary school completed'
-'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
+'upper secondary school completed': 'Upper secondary school completed'
 'b) at the end of primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'property': 'Property'
@@ -404,12 +409,12 @@
 'financing': 'Financing'
 'general government': 'General government'
 'transport and communications': 'Transport and communications'
-'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
+'housing, urban development, regional planning and municipal community services': 'Housing, urban development, regional planning and municipal community services'
 'corporations': 'Corporations'
 'general services': 'General services'
-'energy and water industry, trade, services': 'Energy and water industry, trade, services'
-'food, agriculture and forestry': 'Food, Agriculture and Forestry'
-'financial economy': 'Financial economy'
+'energy and water management, trade, services': 'Energy and water management, trade, services'
+'food, agriculture and forestry': 'Food, agriculture and forestry'
+'financial services': 'Financial services'
 'health, environment, sport and recreation': 'Health, environment, sport and recreation'
 'social security, family and youth, labour market policy': 'Social security, family and youth, labour market policy'
 'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
@@ -505,6 +510,9 @@
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'urban': 'Urban'
+'care work': 'Care work'
+'domestic work': 'Domestic work'
+'domestic and care work': 'Domestic and care work'
 'other related purposes': 'Other related purposes'
 'deposit onto or into land and land treatment and release into water bodies': 'Deposit onto or into land and land treatment and release into water bodies'
 'energy recovery': 'Energy recovery'
@@ -514,6 +522,20 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
+
+#Data notes
++++symbols: Explanation of symbols
+'+++0': less than half of 1 in the last digit occupied, but more than zero
+'+++-': no figures or magnitude zero
+'+++…': data will be available later
+'+++/': no data because the numerical value is not sufficiently reliable
+'+++.': numerical value unknown or not be disclosed
+'+++X': cell blocked for logical reasons
+'+++( )': limited informational value because numerical value is of limited statistical reliability
+'+++|': fundamental change within a series affecting comparisons over time
+'+++p': provisional data
+'+++r': revised data
+'+++s': estimated data
 
 #Time series
 #Z_01021_1a
@@ -621,9 +643,13 @@
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+#Z_03091_5
+'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+#Z_03091_6
+'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
@@ -678,6 +704,8 @@
 'married girls': 'Married girls'
 #Z_05032_1
 'female victims of genital mutilation': 'Female victims of genital mutilation'
+#Z_05041_1
+'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_3
 'women in a) national parliaments': 'Women in a) national parliaments'
 #Z_05051_4
@@ -744,8 +772,6 @@
 'households and small-sized enterprises connected to the electricity network': 'Households and small-sized enterprises connected to the electricity network'
 #Z_07012_1
 'population with primary reliance on clean fuels and technology': 'Population with primary reliance on clean fuels and technology'
-'renewable energy in total final energy consumption': Renewable energy in total final energy consumption
-'renewable energy in gross final energy consumption': Renewable energy in gross final energy consumption
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
 #Z_07051_1
@@ -781,9 +807,9 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Gross value added of the tourism industry'
 #Z_08101_1
-'branches of payment service providers': 'Branches of payment service providers'
+'a) branches of payment service providers': 'a) Branches of payment service providers'
 #Z_08101_2
-'atms of national payment service providers': 'ATMs of national payment service providers'
+'b) atms of national payment service providers': 'b) ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
 #Z_08111_1
@@ -840,20 +866,6 @@
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
-#Z_10051_1
-'capital to assets ratio': 'Capital to assets ratio'
-#Z_10051_2
-'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
-#Z_10051_3
-'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
-#Z_10051_4
-'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
-#Z_10051_5
-'return on assets': 'Return on assets'
-#Z_10051_6
-'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
-#Z_10051_7
-'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
 #Z_10072_1
 'state of migration policies': 'State of migration policies'
 #Z_10073_1
@@ -921,9 +933,9 @@
 #Z_12041_5
 'minamata convention': 'Minamata Convention'
 #Z_12042_1
-'hazardous waste generated per capita': 'Hazardous waste generated per capita'
+'a) hazardous waste generated per capita': 'a) Hazardous waste generated per capita'
 #Z_12042_2
-'hazardous waste treated': 'Hazardous waste treated'
+'b) hazardous waste treated': 'b) Hazardous waste treated'
 #Z_12051_1
 'national recycling rate': 'National recycling rate'
 #Z_12051_2
@@ -1155,17 +1167,6 @@
 #Z_17192_3
 'death registration': 'Death registration'
 
-#Symbols
-+++symbols: Explanation of symbols
-+++p: preliminary
-+++r: revised
-+++s: estimated
-+++.: Numerical value unknown or to be kept secret
-+++…: Information is due later
-+++-: not available
-+++x: Table compartment locked because statement does not make sense
-+++0: Less than half of 1 in the last position filled, but more than nothing
-
 #Addition
 total: Total
 timeseries: Time series
@@ -1181,13 +1182,26 @@ area2: Area
 '+++p': 'preliminary'
 '+++r': 'revised'
 '+++s': 'estimated'
-'+++.': 'Numerical value unknown or to be kept secret'
-'+++…': 'Information is due later'
-'+++-': 'not available'
+'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
+'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
+'energy and water industry, trade, services': 'Energy and water industry, trade, services'
+'financial economy': 'Financial economy'
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
+'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
+'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
+'branches of payment service providers': 'Branches of payment service providers'
+'atms of national payment service providers': 'ATMs of national payment service providers'
+'capital to assets ratio': 'Capital to assets ratio'
+'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
+'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
+'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
+'return on assets': 'Return on assets'
+'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
+'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
+'hazardous waste generated per capita': 'Hazardous waste generated per capita'
+'hazardous waste treated': 'Hazardous waste treated'
 '+++x': 'Table compartment locked because statement does not make sense'
-'+++0': 'Less than half of 1 in the last position filled, but more than nothing'
 'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
-'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
 'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
