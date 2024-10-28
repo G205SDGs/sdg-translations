@@ -526,7 +526,7 @@
 #Data notes
 +++symbols: Explanation of symbols
 '+++0': less than half of 1 in the last digit occupied, but more than zero
-'+++-': no figures or magnitude zero
+'+++‒': no figures or magnitude zero
 '+++…': data will be available later
 '+++/': no data because the numerical value is not sufficiently reliable
 '+++.': numerical value unknown or not be disclosed
