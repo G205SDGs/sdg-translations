@@ -76,7 +76,7 @@
 'stages of the food chain': 'Stages of the food chain'
 'economic activity': 'Economic activity'
 'ecosystem': 'Ecosystem'
-'education level': 'Education level'
+'educational level': 'Educational level'
 'ownership': 'Ownership'
 'enterprise definition': 'Enterprise definition'
 'type of service': 'Type of service'
@@ -256,9 +256,9 @@
 'lakes and rivers permanent water area': 'Lakes and rivers permanent water area'
 'wetlands area': 'Wetlands area'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Bachelor/equivalent degree completed and masters/equivalent degree or above'
-'lower secondary school completed': 'Lower secondary school completed'
+'lower secondary education (isced level 2)': 'Lower secondary education (ISCED level 2)'
 'primary school completed': 'Primary school completed'
-'upper secondary school completed': 'Upper secondary school completed'
+'upper secondary education (isced level 3)': 'Upper secondary education (ISCED level 3)'
 'b) at the end of primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'property': 'Property'
@@ -523,6 +523,21 @@
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
 
+#Data notes
++++symbols: Explanation of symbols
+'+++0': less than half of 1 in the last digit occupied, but more than zero
+'+++‒': no figures or magnitude zero
+'+++…': data will be available later
+'+++/': no data because the numerical value is not sufficiently reliable
+'+++.': numerical value unknown or not be disclosed
+'+++x': cell blocked for logical reasons
+'+++( )': limited informational value because numerical value is of limited statistical reliability
+'+++|': fundamental change within a series affecting comparisons over time
+'+++p': provisional data
+'+++r': revised data
+'+++s': estimated data
+'+++-': no figures or magnitude zero
+
 #Time series
 #Z_01021_1a
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
@@ -662,6 +677,8 @@
 'resistant isolates tested from blood cultures': 'Resistant isolates tested from blood cultures'
 #Z_04011_1
 'children and youths with a minimum proficiency in reading or mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
+#Z_04012_1
+'completion rate': 'Completion rate'
 #Z_04022_1
 'children in child day care at the age of 5': 'Children in child day care at the age of 5'
 #Z_04031_1
@@ -1066,6 +1083,8 @@
 'private persons (donors) suspected in the context of corruption offences': 'Private persons (donors) suspected in the context of corruption offences'
 #Z_16052_1
 'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
+#Z_16061_1
+'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years': 'Population satisfied with their experience of government services during the previous two years'
 #Z_16071_1
@@ -1167,6 +1186,23 @@ sex of victim: Gender of victims
 age of victim: Age of victims
 area2: Area
 
+#Old stuff that may still be needed
+'+++symbols': 'Explanation of symbols'
+'+++0': 'less than half of 1 in the last digit occupied, but more than zero'
+'+++‒': 'no figures or magnitude zero'
+'+++…': 'data will be available later'
+'+++/': 'no data because the numerical value is not sufficiently reliable'
+'+++.': 'numerical value unknown or not be disclosed'
+'+++x': 'cell blocked for logical reasons'
+'+++( )': 'limited informational value because numerical value is of limited statistical reliability'
+'+++|': 'fundamental change within a series affecting comparisons over time'
+'+++p': 'provisional data'
+'+++r': 'revised data'
+'+++s': 'estimated data'
+'+++-': 'no figures or magnitude zero'
+'education level': 'Education level'
+'lower secondary school completed': 'Lower secondary school completed'
+'upper secondary school completed': 'Upper secondary school completed'
 'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
 'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
 'energy and water industry, trade, services': 'Energy and water industry, trade, services'
@@ -1189,4 +1225,3 @@ area2: Area
 'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
 'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
-'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'

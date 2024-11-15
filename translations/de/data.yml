@@ -76,7 +76,7 @@
 'stages of the food chain': 'Stufen der Lebensmittelkette'
 'economic activity': 'Wirtschaftszweig'
 'ecosystem': 'Ökosystem'
-'education level': 'Ausbildungsgrad'
+'educational level': 'Bildungsstand'
 'ownership': 'Eigentumsverhältnis'
 'enterprise definition': 'Unternehmensdefinition'
 'type of service': 'Versorgungsleistung'
@@ -256,9 +256,9 @@
 'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
 'wetlands area': 'Feuchtgebiete'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher'
-'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
+'lower secondary education (isced level 2)': 'Sekundarstufe I (ISCED-Stufe 2)'
 'primary school completed': 'Abgeschlossene Grundschulausbildung'
-'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
+'upper secondary education (isced level 3)': 'Sekundarstufe II (ISCED-Stufe 3)'
 'b) at the end of primary education': 'b) Am Ende der Grundschule'
 'c) at the end of lower secondary education': 'c) Am Ende der Sekundarstufe I'
 'property': 'Eigentum'
@@ -523,6 +523,21 @@
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
 
+#Kennzeichen
++++symbols: Zeichenerklärung
+'+++0': weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts
+'+++‒': nichts vorhanden
+'+++…': Angabe fällt später an
+'+++/': keine Angaben, da Zahlenwert nicht sicher genug
+'+++.': Zahlenwert unbekannt oder geheim zu halten
+'+++x': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
+'+++( )': Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist
+'+++|': grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt
+'+++p': vorläufige Zahl
+'+++r': berichtigte Zahl
+'+++s': geschätzte Zahl
+'+++-': nichts vorhanden
+
 #Zeitreihen
 #Z_01021_1a
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
@@ -662,6 +677,8 @@
 'resistant isolates tested from blood cultures': 'Resistent getestete Isolate aus Blutkulturen'
 #Z_04011_1
 'children and youths with a minimum proficiency in reading or mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
+#Z_04012_1
+'completion rate': 'Abschlussquote'
 #Z_04022_1
 'children in child day care at the age of 5': 'Kinder in Kindertagesbetreuung im Alter von 5 Jahren'
 #Z_04031_1
@@ -1066,6 +1083,8 @@
 'private persons (donors) suspected in the context of corruption offences': 'Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten'
 #Z_16052_1
 'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Unternehmen, die den Eindruck hatten, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
+#Z_16061_1
+'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
 #Z_16071_1
@@ -1174,6 +1193,22 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'+++symbols': 'Zeichenerklärung'
+'+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
+'+++‒': 'nichts vorhanden'
+'+++…': 'Angabe fällt später an'
+'+++/': 'keine Angaben, da Zahlenwert nicht sicher genug'
+'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
+'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'+++( )': 'Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist'
+'+++|': 'grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt'
+'+++p': 'vorläufige Zahl'
+'+++r': 'berichtigte Zahl'
+'+++s': 'geschätzte Zahl'
+'+++-': 'nichts vorhanden'
+'education level': 'Ausbildungsgrad'
+'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
+'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
 'upper secondary school completed and post-secondary non-tertiary education': 'Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung'
 'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
 'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
@@ -1196,4 +1231,3 @@ area2: Bereich
 'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
 'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
 'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
-'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
