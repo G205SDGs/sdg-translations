@@ -97,6 +97,7 @@
 'level of proficiency': 'Leistungsniveau'
 'presentation': 'Darstellung'
 'level of risk of extinction': 'Gefährdungskategorie'
+'score': 'Punktzahl'
 'goal': 'Ziel'
 'sea': 'Meer'
 'fields of work': 'Aufgabenbereiche'
@@ -205,6 +206,7 @@
 'area 2: violence against women': 'Bereich 2: Gewalt gegen Frauen'
 'area 3: employment and economic benefit': 'Bereich 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 4: marriage and family': 'Bereich 4: Ehe und Familie'
+'population who had the impression that public officials are corruptible': 'Bevölkerung, die den Eindruck hatte, das Beschäftigte des öffentlichen Dienstes bestechlich waren'
 'upper bound': 'Obere Grenze'
 'lower bound': 'Untere Grenze'
 'victim of avalanche, landslide and other earth movements': 'Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen'
@@ -383,6 +385,8 @@
 'breeding programs for preservation': 'Erhaltungspopulationen'
 'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'water and sanitation': 'Wasser und Sanitär'
+'currend status': 'Aktueller Status'
+'trend': 'Trend'
 '1 - no poverty': '1 - Keine Armut'
 '10 - reduced inequalities': '10 - Weniger Ungleichheiten'
 '11 - sustainable cities and communities': '11 - Nachhaltige Städte und Gemeinden'
@@ -447,6 +451,8 @@
 'alcohol and other psychoactive substances': 'Alkohol und andere psychoaktive Substanzen'
 'alcohol and other psychoactive substances (other psychoactive substances)': 'Alkohol und andere psychoaktive Substanzen (andere psychoaktive Substanzen)'
 'alcohol and other psychoactive substances (alcohol)': 'Alkohol und andere psychoaktive Substanzen (Alkohol)'
+'national taxes': 'Steuern'
+'national taxes and insurance contributions': 'Steuern und Sozialversicherungsausgaben'
 '3g': '3G'
 'lte': 'LTE'
 '5g': '5G'
@@ -578,10 +584,6 @@
 'hb concentrations in female adolescents': 'Hb-Konzentrationen bei weiblichen Jugendlichen'
 #Z_02031_1
 'labour productivity': 'Arbeitsproduktivität'
-#Z_02041_1
-'data from the federal statistical office': 'Daten des Statistischen Bundesamtes'
-#Z_02041_2
-'data from the federal ministry of food and agriculture': 'Daten des BMEL'
 #Z_02051_1
 'plant genetic resources': 'Pflanzengenetische Ressourcen'
 #Z_02051_2
@@ -715,9 +717,9 @@
 #Z_05051_4
 'women in b) local governments': 'Frauen in b) Gemeinden'
 #Z_05051_6
-'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
+'women in a) national parliaments and b) local governments': 'Frauen in nationalen Parlamenten und Gemeinden'
 #Z_05052_1
-'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
+'women in managerial positions': 'Frauen in Führungspositionen'
 #Z_05062_1
 'access to sexual and reproductive health care, information and education': 'Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung'
 #Z_05071_1
@@ -732,8 +734,6 @@
 'mobile penetration rate': 'Penetrationsrate Mobilfunk'
 #Z_05081_2
 'private households with at least one mobile phone': 'Privathaushalte mit mindestens einem Mobiltelefon'
-#Z_06011_1
-'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
 #Z_06011_2
 'population connected to the public water supply system': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
@@ -759,7 +759,7 @@
 #Z_06051_1
 'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 #Z_06052_1
-'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation'
+'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Wassereinzugsgebiete mit einer operativen Vereinbarung zur Wasserkooperation'
 #Z_06061_7
 'area': 'Fläche'
 #Z_06061_8
@@ -776,6 +776,8 @@
 'households and small-sized enterprises connected to the electricity network': 'Haushalte und Kleinbetriebe mit Zugang zu Elektrizitätsnetzwerken'
 #Z_07012_1
 'population with primary reliance on clean fuels and technology': 'Bevölkerung, die vorwiegend saubere Energieträger und Technologien nutzt'
+#Z_07021_3
+'renewable energy in final energy consumption': 'Erneuerbare Energien am Endenergieverbrauch'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
 #Z_07051_1
@@ -793,7 +795,7 @@
 #Z_08042_2
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
 #Z_08051_1
-'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst Beschäftigter'
+'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst von Beschäftigten'
 #Z_08051_2
 'gender pay gap': 'Verdienstabstand'
 #Z_08052_1
@@ -845,9 +847,9 @@
 #Z_09041_2
 'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
 #Z_09051_1
-'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
+'research and developmant expenditure as a proportion of gdp': 'Ausgaben für Forschung und Entwicklung im Verhältnis zum BIP'
 #Z_09052_1
-'persons working in r&d in full-time equivalents': 'In F&E tätige Personen  in Vollzeitäquivalenten'
+'persons working in research and development (in full-time equivalents)': 'In Forschung und Entwicklung tätige Personen (in Vollzeitäquivalenten)'
 #Z_09061_1
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 #Z_09061_2
@@ -859,7 +861,7 @@
 #Z_10011_3
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1
-'population living below 50% of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
+'population living below 50 % of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
 #Z_10031_1
 'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 #Z_10041_1
@@ -904,16 +906,10 @@
 'land consumption rate': 'Flächennutzungssrate'
 #Z_11031_4
 'population growth rate': 'Bevölkerungsentwicklung'
-#Z_11032_1
-'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
 'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
 #Z_11041_2
 'government expenditure on cultural services (cofog division 8.2)': 'Staatsausgaben für Kultur (COFOG Abteilung 8.2)'
-#Z_11061_1
-'municipal solid waste regularly collected and treated': 'Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden'
-#Z_11061_2
-'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
 #Z_11062_1
 'population weighted annual mean levels of fine particulate matter': 'Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub'
 #Z_11062_2
@@ -961,7 +957,7 @@
 #Z_14011_2
 'plastic particles in fulmar stomachs': 'Plastikmüll in Mägen von Eissturmvögeln'
 #Z_14021_1
-'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Vorhandensein von Raumordnungsplänen für die ausschließliche Wirtschaftszone (AWZ) und einem integrierten Küstenzonenmanagement (IKMZ)'
+'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Vorhandensein von Raumordnungsplänen für die ausschließliche Wirtschaftszone (AWZ) und einem integrierten Küstenzonenmanagement (IKZM)'
 #Z_14031_1
 'average ph-concentration in the german bight': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
@@ -1027,7 +1023,7 @@
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
-'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
+'seizures by customs authorities concerning the protection of species': 'Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Genehmigte Ein- und Ausfuhren geschützter Arten'
 #Z_15081_1
@@ -1105,13 +1101,13 @@
 #Z_16102_1
 'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
-'membership ganhri (category a)': 'Mitgliedschaft GANHRI (Kategorie A)'
+'membership global alliance of national human rights institutions (ganhri), category a': 'Mitgliedschaft Global Alliance of National Human Rights Institutions (GANHRI), Kategorie A'
 #Z_17011_1
 'proportion of total government revenue to gdp': 'Verhältnis der Gesamteinnahmen des Staates zum BIP'
 #Z_17012_1
-'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
+'financing of domestic expenditures funded by national taxes': 'Finanzierung der Staatsausgaben durch Steuern'
 #Z_17012_2
-'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden'
+'financing of domestic expenditures funded by national taxes and insurance contributions': 'Finanzierung der Staatsausgaben durch Steuern und Sozialversicherungsabgaben'
 #Z_17021_1
 'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
 #Z_17021_2
@@ -1165,11 +1161,11 @@
 #Z_17181_1
 'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Indikatoren für nachhaltige Entwicklung mit den im Indikatorentitel geforderten Disaggregationen'
 #Z_17182_1
-'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
+'national implementation of statistical legislation that is consistent with the fundamental principles of offical statistics in germany': 'Nationale Umsetzung statistischer Gesetzgebung, die mit den Grundsätzen der amtlichen Statistik in Deutschland übereinstimmt'
 #Z_17191_1
-'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten'
+'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zur Stärkung statistischer Kapazitäten'
 #Z_17191_2
-'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten'
+'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zur Stärkung statistischer Kapazitäten'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
@@ -1207,6 +1203,23 @@ area2: Bereich
 '+++r': 'berichtigte Zahl'
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
+'+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'data from the federal statistical office': 'Daten des Statistischen Bundesamtes'
+'data from the federal ministry of food and agriculture': 'Daten des BMEL'
+'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
+'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
+'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
+'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
+'persons working in r&d in full-time equivalents': 'In F&E tätige Personen  in Vollzeitäquivalenten'
+'population living below 50% of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
+'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
+'municipal solid waste regularly collected and treated': 'Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden'
+'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
+'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
+'membership ganhri (category a)': 'Mitgliedschaft GANHRI (Kategorie A)'
+'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
+'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden'
+'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 'education level': 'Ausbildungsgrad'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
 'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
