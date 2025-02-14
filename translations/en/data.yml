@@ -916,10 +916,6 @@
 'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
-#Z_11072_1
-'victims of non-sexual harassment': 'Victims of non-sexual harassment'
-#Z_11072_2
-'victims of sexual harassment': 'Victims of sexual harassment'
 #Z_12031_1
 '(b) food waste index': '(b) food waste index'
 #Z_12041_1
@@ -1046,14 +1042,6 @@
 'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
-#Z_16013_1
-'population who were exposed to physical violence': 'Population who were exposed to physical violence'
-#Z_16013_2
-'population who were victims of criminal offences': 'Population who were victims of criminal offences'
-#Z_16013_3
-'victims of criminal offences': 'Victims of criminal offences'
-#Z_16013_4
-'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
 #Z_16014_2
@@ -1064,10 +1052,6 @@
 'children at acute risk of harm with signs of abuse': 'Children at acute risk of harm with signs of abuse'
 #Z_16022_1
 'victims of human trafficking': 'Victims of human trafficking'
-#Z_16031_1
-'reporting rate for physical assault': 'Reporting rate for physical assault'
-#Z_16031_2
-'reporting rate for robbery': 'Reporting rate for robbery'
 #Z_16032_1
 'unsentenced detainees': 'Unsentenced detainees'
 #Z_16033_1
@@ -1198,6 +1182,14 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'victims of non-sexual harassment': 'Victims of non-sexual harassment'
+'victims of sexual harassment': 'Victims of sexual harassment'
+'population who were exposed to physical violence': 'Population who were exposed to physical violence'
+'population who were victims of criminal offences': 'Population who were victims of criminal offences'
+'victims of criminal offences': 'Victims of criminal offences'
+'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
+'reporting rate for physical assault': 'Reporting rate for physical assault'
+'reporting rate for robbery': 'Reporting rate for robbery'
 'data from the federal statistical office': 'Data from the Federal Statistical Office'
 'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
 'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'

@@ -916,10 +916,6 @@
 'population with excessive exposure to fine particulate matter': 'Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
-#Z_11072_1
-'victims of non-sexual harassment': 'Opfer nicht-sexueller Belästigung'
-#Z_11072_2
-'victims of sexual harassment': 'Opfer sexueller Belästigung'
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
@@ -1046,14 +1042,6 @@
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
-#Z_16013_1
-'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
-#Z_16013_2
-'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
-#Z_16013_3
-'victims of criminal offences': 'Opfer von Straftaten'
-#Z_16013_4
-'population who were exposed to sexual violence': 'Bevölkerung, die sexueller Gewalt ausgesetzt war'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
 #Z_16014_2
@@ -1064,10 +1052,6 @@
 'children at acute risk of harm with signs of abuse': 'Akute Kindeswohlgefährdung mit Anzeichen für Misshandlung'
 #Z_16022_1
 'victims of human trafficking': 'Opfer von Menschenhandel'
-#Z_16031_1
-'reporting rate for physical assault': 'Anzeigequote bei Körperverletzung'
-#Z_16031_2
-'reporting rate for robbery': 'Anzeigequote bei Raub'
 #Z_16032_1
 'unsentenced detainees': 'Nicht strafrechtlich verurteilte Inhaftierte'
 #Z_16033_1
@@ -1204,6 +1188,14 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'victims of non-sexual harassment': 'Opfer nicht-sexueller Belästigung'
+'victims of sexual harassment': 'Opfer sexueller Belästigung'
+'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
+'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
+'victims of criminal offences': 'Opfer von Straftaten'
+'population who were exposed to sexual violence': 'Bevölkerung, die sexueller Gewalt ausgesetzt war'
+'reporting rate for physical assault': 'Anzeigequote bei Körperverletzung'
+'reporting rate for robbery': 'Anzeigequote bei Raub'
 'data from the federal statistical office': 'Daten des Statistischen Bundesamtes'
 'data from the federal ministry of food and agriculture': 'Daten des BMEL'
 'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
