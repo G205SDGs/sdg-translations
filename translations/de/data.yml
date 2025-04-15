@@ -126,7 +126,6 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'victim-suspect relationship': 'Opfer-Tatverdächtigen-Beziehung' 
 
 #Ausprägungen
 'accessibility within 10 minutes on foot': 'Erreichbarkeit innerhalb von 10 Minuten zu Fuß'
@@ -529,9 +528,6 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-'family member': 'Familienmitglied'
-'intimate partner': 'Intimpartner'
-'intimate partner or family member': 'Intimpartner oder Familienmitglied'
 
 #Kennzeichen
 +++symbols: Zeichenerklärung
