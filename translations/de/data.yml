@@ -65,6 +65,7 @@
 'age of mother': 'Alter der Mutter'
 'area': 'Gebiet'
 'area of law': 'Rechtsgebiet'
+'type of assistance': 'Art der Leistung'
 'bound': 'Grenze'
 'cause of death': 'Todesursache'
 'availability': 'Verfügbarkeit'
@@ -88,6 +89,7 @@
 'level of court': 'Gerichtsebene'
 'water use index': 'Wassernutzungsindex'
 'profession': 'Beruf'
+'victim-suspect relationship': 'Opfer-Tatverdächtigen-Beziehung'
 'pathogens and resistance': 'Erreger und Resistenz'
 'level': 'Ebene'
 'percentile': 'Perzentil'
@@ -206,6 +208,11 @@
 'area 2: violence against women': 'Bereich 2: Gewalt gegen Frauen'
 'area 3: employment and economic benefit': 'Bereich 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 4: marriage and family': 'Bereich 4: Ehe und Familie'
+'participation in education': 'Teilhabe an Bildung'
+'medical rehabilitation': 'Medizinischen Rehabilitation'
+'other': 'Sonstige'
+'sozial participation': 'Sozialen Teilhabe'
+'participation in working life': 'Teilhabe am Arbeitsleben'
 'population who had the impression that public officials are corruptible': 'Bevölkerung, die den Eindruck hatte, das Beschäftigte des öffentlichen Dienstes bestechlich waren'
 'upper bound': 'Obere Grenze'
 'lower bound': 'Untere Grenze'
@@ -351,6 +358,9 @@
 'gross disbursements (oda)': 'Bruttoentwicklungsausgaben (ODA)'
 'commitments (oda and oof)': 'Zusagen (ODA and OOF)'
 'gross disbursements (oda and oof)': 'Bruttoausgaben (ODA und OOF)'
+'family member': 'Familienmitglied'
+'intimate partner': 'Intimpartner'
+'intimate partner or family member': 'Intimpartner oder Familienmitglied'
 'public': 'Öffentlich'
 'private': 'Privat'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -385,7 +395,7 @@
 'breeding programs for preservation': 'Erhaltungspopulationen'
 'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'water and sanitation': 'Wasser und Sanitär'
-'currend status': 'Aktueller Status'
+'currend status': 'Aktueller Stand'
 'trend': 'Trend'
 '1 - no poverty': '1 - Keine Armut'
 '10 - reduced inequalities': '10 - Weniger Ungleichheiten'
@@ -556,10 +566,6 @@
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
 #Z_01022_4
 'severely materially and socially deprived persons': 'Unter erheblicher materieller und sozialer Deprivation leidende Personen'
-#Z_01031_1
-'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
-#Z_01031_2
-'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
 #Z_01051_1
 'deaths attributed to natural forces': 'Naturkräften zugeschriebene Sterbefälle'
 #Z_01061_1
@@ -872,6 +878,20 @@
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Umverteilende Wirkung der Fiskalpolitik'
+#Z_10051_1
+'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
+#Z_10051_2
+'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatori-schem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+#Z_10051_3
+'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleiden-den Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+#Z_10051_4
+'non-performing loans to total gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+#Z_10051_5
+'total return on assets': 'Gesamtkapitalrentabilität'
+#Z_10051_6
+'ratio of liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+#Z_10051_7
+'ratio of open foreign exchange position to regulatory capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
@@ -906,10 +926,16 @@
 'land consumption rate': 'Flächennutzungssrate'
 #Z_11031_4
 'population growth rate': 'Bevölkerungsentwicklung'
+#Z_11032_1
+'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
 'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
 #Z_11041_2
 'government expenditure on cultural services (cofog division 8.2)': 'Staatsausgaben für Kultur (COFOG Abteilung 8.2)'
+#Z_11061_1
+'municipal solid waste regularly collected and treated': 'Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden'
+#Z_11061_2
+'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
 #Z_11062_1
 'population weighted annual mean levels of fine particulate matter': 'Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub'
 #Z_11062_2
@@ -1038,8 +1064,6 @@
 'environmental protection expenditure': 'Umweltschutzausgaben'
 #Z_15111_1
 'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
-#Z_16011_1
-'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16014_1
@@ -1188,6 +1212,9 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
+'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
+'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
 'victims of non-sexual harassment': 'Opfer nicht-sexueller Belästigung'
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
@@ -1204,9 +1231,6 @@ area2: Bereich
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 'persons working in r&d in full-time equivalents': 'In F&E tätige Personen  in Vollzeitäquivalenten'
 'population living below 50% of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
-'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
-'municipal solid waste regularly collected and treated': 'Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden'
-'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
 'membership ganhri (category a)': 'Mitgliedschaft GANHRI (Kategorie A)'
 'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'

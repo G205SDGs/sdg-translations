@@ -65,6 +65,7 @@
 'age of mother': 'Age of mother'
 'area': 'Area'
 'area of law': 'Area of law'
+'type of assistance': 'Type of assistance'
 'bound': 'Bound'
 'cause of death': 'Cause of death'
 'availability': 'Availability'
@@ -88,6 +89,7 @@
 'level of court': 'Level of court'
 'water use index': 'Water use index'
 'profession': 'Profession'
+'victim-suspect relationship': 'Victim-Suspect Relationship'
 'pathogens and resistance': 'Pathogens and resistance'
 'level': 'Level'
 'percentile': 'Percentile'
@@ -206,6 +208,11 @@
 'area 2: violence against women': 'Area 2: Violence against women'
 'area 3: employment and economic benefit': 'Area 3: Employment and economic benefit'
 'area 4: marriage and family': 'Area 4: Marriage and family'
+'participation in education': 'Participation in education'
+'medical rehabilitation': 'Medical rehabilitation'
+'other': 'Other'
+'sozial participation': 'Sozial participation'
+'participation in working life': 'Participation in working life'
 'population who had the impression that public officials are corruptible': 'Population who had the impression that public officials are corruptible'
 'upper bound': 'Upper bound'
 'lower bound': 'Lower bound'
@@ -351,6 +358,9 @@
 'gross disbursements (oda)': 'Gross disbursements (ODA)'
 'commitments (oda and oof)': 'Commitments (ODA and OOF)'
 'gross disbursements (oda and oof)': 'Gross disbursements (ODA and OOF)'
+'family member': 'Family member'
+'intimate partner': 'Intimate partner'
+'intimate partner or family member': 'Intimate partner or family member'
 'public': 'Public'
 'private': 'Private'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -556,10 +566,6 @@
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
 #Z_01022_4
 'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
-#Z_01031_1
-'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
-#Z_01031_2
-'population covered by health insurance': 'Population covered by health insurance'
 #Z_01051_1
 'deaths attributed to natural forces': 'Deaths attributed to natural forces'
 #Z_01061_1
@@ -872,6 +878,20 @@
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
+#Z_10051_1
+'ratio of regulatory capital to all weighted risk positions': 'Ratio of regulatory capital to all weighted risk positions'
+#Z_10051_2
+'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Ratio of regulatory (tier 1) capital to all weighted risk positions'
+#Z_10051_3
+'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Ratio of non-performing loans (net of risk provisions) to balance sheet capital'
+#Z_10051_4
+'non-performing loans to total gross loans': 'Non-performing loans to total gross loans'
+#Z_10051_5
+'total return on assets': 'Total return on assets'
+#Z_10051_6
+'ratio of liquid assets to short-term liabilities': 'Ratio of liquid assets to short-term liabilities'
+#Z_10051_7
+'ratio of open foreign exchange position to regulatory capital': 'Ratio of open foreign exchange position to regulatory capital'
 #Z_10072_1
 'state of migration policies': 'State of migration policies'
 #Z_10073_1
@@ -906,10 +926,16 @@
 'land consumption rate': 'Land consumption rate'
 #Z_11031_4
 'population growth rate': 'Population growth rate'
+#Z_11032_1
+'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1
 'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
 #Z_11041_2
 'government expenditure on cultural services (cofog division 8.2)': 'Government expenditure on cultural services (COFOG division 8.2)'
+#Z_11061_1
+'municipal solid waste regularly collected and treated': 'Municipal solid waste regularly collected and treated'
+#Z_11061_2
+'municipal solid waste in total': 'Municipal solid waste in total'
 #Z_11062_1
 'population weighted annual mean levels of fine particulate matter': 'Population weighted annual mean levels of fine particulate matter'
 #Z_11062_2
@@ -1038,8 +1064,6 @@
 'environmental protection expenditure': 'Environmental protection expenditure'
 #Z_15111_1
 'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
-#Z_16011_1
-'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16014_1
@@ -1182,6 +1206,9 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
+'population covered by health insurance': 'Population covered by health insurance'
+'victims of intentional homicide': 'Victims of intentional homicide'
 'victims of non-sexual harassment': 'Victims of non-sexual harassment'
 'victims of sexual harassment': 'Victims of sexual harassment'
 'population who were exposed to physical violence': 'Population who were exposed to physical violence'
@@ -1198,9 +1225,6 @@ area2: Area
 'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
 'persons working in r&d in full-time equivalents': 'Persons working in R&D in full-time equivalents'
 'population living below 50% of median income': 'Population living below 50% of median income'
-'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
-'municipal solid waste regularly collected and treated': 'Municipal solid waste regularly collected and treated'
-'municipal solid waste in total': 'Municipal solid waste in total'
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
 'membership ganhri (category a)': 'Membership GANHRI (category A)'
 'proportion of domestic expenditures funded by national taxes': 'Proportion of domestic expenditures funded by national taxes'
