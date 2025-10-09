@@ -8,6 +8,7 @@
 'eur per hour': 'EUR per hour'
 'income per capita': 'Income per capita'
 'gini coefficient': 'Gini coefficient'
+'gini coefficient index points': 'Gini coefficient index points'
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 'hectare': 'Hectare'
@@ -87,6 +88,7 @@
 'feelings of insecurity': 'Feelings of insecurity'
 'function': 'Function'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
+'income considered': 'Income considered'
 'indicator': 'Indicator'
 'level of court': 'Level of court'
 'water use index': 'Water use index'
@@ -143,7 +145,7 @@
 'connecting and installing new devices, eg a printer or a modem': 'Connecting and installing new devices, eg a printer or a modem'
 'transferring files between computer and other devices': 'Transferring files between computer and other devices'
 'installing software or apps': 'Installing software or apps'
-'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
+'creating files integrating elements such as text, pictures, tables, charts, animations or sound': 'Creating files integrating elements such as text, pictures, tables, charts, animations or sound'
 'using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
 '11 months and younger': '11 months and younger'
 '4 years and younger': '4 years and younger'
@@ -321,6 +323,8 @@
 'middle': 'Middle'
 'fourth': 'Fourth'
 'richest': 'Richest'
+'equivalised disposable income (net income including social transfers)': 'Equivalised disposable income (net income including social transfers)'
+'equivalised market income (gross income without social transfers)': 'Equivalised market income (gross income without social transfers)'
 'sdg indicator 4.2.2 (5 years)': 'SDG indicator 4.2.2 (5 years)'
 'sdg-indicator 4.3.1 (15 to under 25 years)': 'SDG-Indicator 4.3.1 (15 to under 25 years)'
 'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indicator 4.3.1 (15 to under 65 years)'
@@ -479,6 +483,9 @@
 'section 4: hiv and hpv': 'Section 4: HIV and HPV'
 'housing conditions': 'Housing conditions'
 'housing deprivation': 'Housing deprivation'
+'<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
+'<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
 'sports and recreational activities': 'Sports and Recreational activities'
 'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
 'accommodation for visitors: other': 'Accommodation for visitors: other'
@@ -575,8 +582,6 @@
 '+++X': cell blocked for logical reasons
 
 #Time series
-#Z_01021_1a
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 #Z_01022_1
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 #Z_01022_2
@@ -593,8 +598,6 @@
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
 'government expenditure': 'Government expenditure'
-#Z_01062_3a
-'government expenditure on social protection': 'Government expenditure on social protection'
 #Z_02011_1
 'energy intake': 'Energy intake'
 #Z_02012_1
@@ -892,11 +895,9 @@
 #Z_10041_1
 'labour share of gdp': 'Labour share of GDP'
 #Z_10042_1
-'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
-#Z_10042_2
-'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
-#Z_10042_3
 'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
+#Z_10042_2
+'gini coefficients': 'Gini coefficients'
 #Z_10051_1
 'ratio of regulatory capital to all weighted risk positions': 'Ratio of regulatory capital to all weighted risk positions'
 #Z_10051_2
@@ -1061,10 +1062,6 @@
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
-#Z_15071_1
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
-#Z_15071_2
-'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15081_1
@@ -1211,6 +1208,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1225,6 +1223,11 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'government expenditure on social protection': 'Government expenditure on social protection'
+'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
+'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
+'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 'currend status': 'Currend status'
 'tpype of physical violence': 'Tpype of physical violence'
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
