@@ -484,7 +484,7 @@
 'housing conditions': 'Housing conditions'
 'housing deprivation': 'Housing deprivation'
 '<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
-'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
+'<u>additional time series:</u> full-time equivalents': '<u>Additional time series:</u> Full-time equivalents'
 '<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
 'sports and recreational activities': 'Sports and Recreational activities'
 'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
@@ -1062,6 +1062,10 @@
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
+#Z_15071_1
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
+#Z_15071_2
+'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15081_1
@@ -1222,12 +1226,11 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'government expenditure on social protection': 'Government expenditure on social protection'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
-'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 'currend status': 'Currend status'
 'tpype of physical violence': 'Tpype of physical violence'
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'

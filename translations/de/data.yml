@@ -484,7 +484,7 @@
 'housing conditions': 'Wohnverhältnisse'
 'housing deprivation': 'Deprivation der Unterkunft'
 '<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
-'<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
+'<u>additional time series:</u> full-time equivalents': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente'
 '<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
 'sports and recreational activities': 'Dienstleistungen des Sports und der Erholung'
 'accommodation for visitors: hotels and similar establishments': 'Beherbergung: Hotels und ähnliche Beherbergungsstätten'
@@ -901,9 +901,9 @@
 #Z_10051_1
 'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
 #Z_10051_2
-'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatori-schem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
 #Z_10051_3
-'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleiden-den Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
 #Z_10051_4
 'non-performing loans to total gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
 #Z_10051_5
@@ -1062,6 +1062,10 @@
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden'
+#Z_15071_1
+'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
+#Z_15071_2
+'seizures by customs authorities concerning the protection of species': 'Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Genehmigte Ein- und Ausfuhren geschützter Arten'
 #Z_15081_1
@@ -1228,12 +1232,11 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
-'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
-'seizures by customs authorities concerning the protection of species': 'Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes'
 'currend status': 'Aktueller Stand'
 'tpype of physical violence': 'Art der physischen Gewalt'
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
