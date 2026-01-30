@@ -976,6 +976,10 @@
 'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
 #Z_15041_3
 'mountain regions, covered by effective protected areas': 'Mountain regions, covered by effective protected areas'
+#Z_15042_1
+'(a) mountain green cover index': '(a) Mountain Green Cover Index'
+#Z_15042_2
+'(b) degraded mountain area': '(b) Degraded mountain area'
 #Z_15051_1
 '"red list" index': '"Red List" Index'
 #Z_15061_1
@@ -1140,7 +1144,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'fields of work': 'Fields of work'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1155,6 +1158,7 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'fields of work': 'Fields of work'
 'child deliveries in hospitals': 'Child deliveries in hospitals'
 'live births in total': 'Live births in total'
 'number of new hiv infections': 'Number of new HIV infections'
@@ -1171,7 +1175,6 @@ area2: Area
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 'victims of non-sexual or sexual harassment': 'Victims of non-sexual or sexual harassment'
 'organisations with emas registration': 'Organisations with EMAS registration'
-'(a) mountain green cover index': '(a) Mountain Green Cover Index'
 '(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
 '1) countries that are contracting parties to the international treaty on pgrfa': '1) Countries that are contracting Parties to the International Treaty on PGRFA'
 '2) countries that are parties to the nagoya protocol': '2) Countries that are parties to the Nagoya Protocol'

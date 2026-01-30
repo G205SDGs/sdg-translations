@@ -976,6 +976,10 @@
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
 #Z_15041_3
 'mountain regions, covered by effective protected areas': 'Flächen in Gebirgen, die unter effektivem Schutz stehen'
+#Z_15042_1
+'(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
+#Z_15042_2
+'(b) degraded mountain area': 'b) Degradierte Gebirgsfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
@@ -1146,7 +1150,6 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'fields of work': 'Aufgabenbereiche'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'
@@ -1161,6 +1164,7 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'fields of work': 'Aufgabenbereiche'
 'child deliveries in hospitals': 'Entbindungen in Krankenhäusern'
 'live births in total': 'Lebendgeborene insgesamt'
 'number of new hiv infections': 'Anzahl der HIV-Neuinfektionen'
@@ -1177,7 +1181,6 @@ area2: Bereich
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 'victims of non-sexual or sexual harassment': 'Opfer nicht-sexueller oder sexueller Belästigung'
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
-'(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
 '(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
 '1) countries that are contracting parties to the international treaty on pgrfa': '1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind'
 '2) countries that are parties to the nagoya protocol': '2) Länder, die Vertragsparteien des Nagoya-Protokolls sind'
