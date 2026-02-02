@@ -598,6 +598,8 @@
 'inpatient treatment of substance use disorders': 'Inpatient treatment of substance use disorders'
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years'
+#Z_03052_1
+'alcohol consumption': 'Alcohol consumption'
 #Z_03061_1
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
@@ -653,7 +655,7 @@
 #Z_04051_1
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
-'adults with a fixed level of proficiency in functional literacy skills': 'Adults with a fixed level of proficiency in functional literacy skills'
+'adults with a defined minimum level of functional literacy': 'Adults with a defined minimum level of functional literacy'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
@@ -1158,6 +1160,7 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'adults with a fixed level of proficiency in functional literacy skills': 'Adults with a fixed level of proficiency in functional literacy skills'
 'fields of work': 'Fields of work'
 'child deliveries in hospitals': 'Child deliveries in hospitals'
 'live births in total': 'Live births in total'

@@ -598,6 +598,8 @@
 'inpatient treatment of substance use disorders': 'Stationäre Behandlung bei Störungen durch Substanzgebrauch'
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren'
+#Z_03052_1
+'alcohol consumption': 'Alkoholkonsum'
 #Z_03061_1
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
@@ -653,7 +655,7 @@
 #Z_04051_1
 'gender parity index': 'Geschlechterparitätsindex'
 #Z_04061_1
-'adults with a fixed level of proficiency in functional literacy skills': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem Lesen'
+'adults with a defined minimum level of functional literacy': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem Lesen'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
@@ -1164,6 +1166,7 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'adults with a fixed level of proficiency in functional literacy skills': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem Lesen'
 'fields of work': 'Aufgabenbereiche'
 'child deliveries in hospitals': 'Entbindungen in Krankenhäusern'
 'live births in total': 'Lebendgeborene insgesamt'
