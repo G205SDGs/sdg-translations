@@ -137,8 +137,10 @@
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
 'type of harassment': 'Type of harassment'
-'type of sexual violence': 'Type of sexual violence'
 'type of physical violence': 'Type of physical violence'
+'type of psycological violence': 'Type of psycological violence'
+'type of sexual violence': 'Type of sexual violence'
+'type of violence': 'Type of violence'
 'type of unpaid work': 'Type of unpaid work'
 'degree of urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
@@ -493,8 +495,16 @@
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'urban': 'Urban'
+'personal offense on the internet': 'Personal offense on the Internet'
+'threat of violence offline': 'Threat of violence offline'
+'threat of violence online': 'Threat of violence online'
+'exposure of genitals': 'Exposure of genitals'
 'physical sexual assault': 'Physical sexual assault'
+'sexual abuse or rape': 'Sexual abuse or rape'
+'a) physical violence': 'a) Physical violence'
 'physical assault': 'Physical assault'
+'b) psychological violence': 'b) Psychological violence'
+'c) sexual violence': 'c) Sexual violence'
 'robbery': 'Robbery'
 'care work': 'Care work'
 'domestic work': 'Domestic work'
@@ -666,8 +676,16 @@
 'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
+#Z_05021_1
+'female victims of sexual violence by an intimate partner': 'Female victims of sexual violence by an intimate partner'
+#Z_05022_1
+'female victims of sexual violence a person other than an intimate partner': 'Female victims of sexual violence a person other than an intimate partner'
 #Z_05031_1
 'married girls': 'Married girls'
+#Z_05032_1
+'cases of female genital mutilation recorded by the police': 'Cases of female genital mutilation recorded by the police'
+#Z_05032_2
+'cases of inpatient treatment due to female genital mutilation (personal medical history)': 'Cases of inpatient treatment due to female genital mutilation (personal medical history)'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_3
@@ -760,6 +778,8 @@
 'unemployment rate': 'Unemployment rate'
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
+#Z_08071_1
+'victims of child labour': 'Victims of child labour'
 #Z_08081_1
 'fatal occupational accidents': 'Fatal occupational accidents'
 #Z_08081_2
@@ -896,6 +916,8 @@
 'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
+#Z_11072_1
+'victims of non-sexual or sexual harassment': 'Victims of non-sexual or sexual harassment'
 #Z_12031_1
 '(b) food waste index': '(b) food waste index'
 #Z_12041_1
@@ -1016,6 +1038,8 @@
 'environmental protection expenditure': 'Environmental protection expenditure'
 #Z_15111_1
 'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
+#Z_16011_1
+'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16014_1
@@ -1170,13 +1194,10 @@ area2: Area
 'share of population with computer-related activities': 'Share of population with computer-related activities'
 'adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
 'proportion of schools offering basic services': 'Proportion of schools offering basic services'
-'female victims of sexual violence by an intimate partner': 'Female victims of sexual violence by an intimate partner'
-'female victims of sexual violence a person other than an intimate partner': 'Female victims of sexual violence a person other than an intimate partner'
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 'victims of exploitation': 'Victims of exploitation'
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
-'victims of non-sexual or sexual harassment': 'Victims of non-sexual or sexual harassment'
 'organisations with emas registration': 'Organisations with EMAS registration'
 '(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
 '1) countries that are contracting parties to the international treaty on pgrfa': '1) Countries that are contracting Parties to the International Treaty on PGRFA'
@@ -1184,7 +1205,6 @@ area2: Area
 '3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA'
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
 '(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': '(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
-'victims of intentional homicide': 'Victims of intentional homicide'
 'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 'victims of female genital mutilation': 'Victims of female genital mutilation'
 'children and young people being exploited': 'Children and young people being exploited'
