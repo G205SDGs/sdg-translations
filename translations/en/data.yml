@@ -140,7 +140,7 @@
 'type of waste': 'Type of waste'
 'type of harassment': 'Type of harassment'
 'type of physical violence': 'Type of physical violence'
-'type of psycological violence': 'Type of psycological violence'
+'type of psychological violence': 'Type of psychological violence'
 'type of sexual violence': 'Type of sexual violence'
 'type of violence': 'Type of violence'
 'type of unpaid work': 'Type of unpaid work'
@@ -571,6 +571,8 @@
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
 #Z_01022_4
 'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
+#Z_01031_3
+'rate of minimum social security benefits': 'Rate of minimum social security benefits'
 #Z_01051_1
 'deaths attributed to natural forces': 'Deaths attributed to natural forces'
 #Z_01061_1
@@ -965,6 +967,8 @@
 'national recycling rate': 'National recycling rate'
 #Z_12051_2
 'material recovery': 'Material recovery'
+#Z_12061_2
+'voluntary sustainability reporting by companies according to the german sustainability code (dnk)': 'Voluntary sustainability reporting by companies according to the German Sustainability Code (DNK)'
 #Z_12071_1
 'sustainable public procurement index': 'Sustainable Public Procurement Index'
 #Z_12101_1
@@ -1215,6 +1219,7 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'type of psycological violence': 'Type of psycological violence'
 'adults with a fixed level of proficiency in functional literacy skills': 'Adults with a fixed level of proficiency in functional literacy skills'
 'fields of work': 'Fields of work'
 'child deliveries in hospitals': 'Child deliveries in hospitals'
