@@ -8,6 +8,7 @@
 'euro per m³': 'Euro pro m³'
 'eur per hour': 'EUR pro Stunde'
 'income per capita': 'Pro Kopf Einkommen'
+'eur per capita': 'EUR pro Kopf'
 'gini coefficient': 'Gini-Koeffizient'
 'gini coefficient index points': 'Gini-Koeffizienz-Punkte'
 'grams per decilitre': 'Gramm pro Deziliter'
@@ -94,8 +95,9 @@
 'type of tenure': 'Art der Nutzungs- und Besitzrechte'
 'enterprise definition': 'Unternehmensdefinition'
 'type of service': 'Art der Versorgungsleistung'
-'länder': 'Bundesland'
+'land': 'Bundesland'
 'degree of feelings of insecurity': 'Grad des Unsicherheitsgefühls'
+'purpose': 'Förderbereich'
 'typ of essential service': 'Art der Grundleistung'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income considered': 'Betrachtetes Einkommen'
@@ -105,6 +107,7 @@
 'land cover class': 'Landbedeckungsklasse'
 'level of court': 'Gerichtsebene'
 'water use index': 'Wassernutzungsindex'
+'type of official development assistance': 'Art der öffentlichen Entwicklungsleistung'
 'profession': 'Beruf'
 'typ of victim-suspect relationship': 'Art der Opfer-Tatverdächtigen-Beziehung'
 'pathogens and resistance': 'Erreger und Resistenz'
@@ -146,7 +149,7 @@
 'type of biomass': 'Art der Biomasse'
 'type of classification': 'Art der Klassifikation'
 'form of exploitation': 'Form der Ausbeutung'
-'type of flow': 'Art des Finanzstroms'
+'type of financial flow': 'Art des Finanzstroms'
 'type of proceeding': 'Art des Verfahrens'
 'type of fiscal policy tool': 'Art des fiskalpolitischen Instruments'
 'type of waste': 'Abfallart'
@@ -181,12 +184,15 @@
 '14 years and younger': '14 Jahre und jünger'
 '17 years and younger': '17 Jahre und jünger'
 '24 years and younger': '24 Jahre und jünger'
+'1 to under 15 years': '1 bis unter 15 Jahre'
+'1 to under 18 years': '1 bis unter 18 Jahre'
 '3 to under 5 years': '3 bis unter 5 Jahre'
 '6 to under 12 years': '6 bis unter 12 Jahre'
 '12 to under 18 years': '12 bis unter 18 Jahre'
 '14 to under 18 years': '14 bis unter 18 Jahre'
 '15 years': '15 Jahre'
 '15.5 years': '15,5 Jahre'
+'15 to under 18 years': '15 bis unter 18 Jahre'
 '15 to under 25 years': '15 bis unter 25 Jahre'
 '15 years and older': '15 Jahre und älter'
 '16 years': '16 Jahre'
@@ -263,6 +269,7 @@
 'yes': 'Ja'
 'protection of biodiversity and landscape (cofog 5.4)': 'Arten- und Landschaftsschutz (COFOG 5.4)'
 'cultural services (cofog 8.2)': 'Kultur (COFOG 8.2)'
+'commitments': 'Zusagen'
 'fully disaggregated': 'Vollständig disaggregiert'
 'not disaggregated': 'Nicht disaggregiert'
 'partially disaggregated': 'Teilweise disaggregiert'
@@ -271,6 +278,10 @@
 'admissible applications': 'Zulässige Anträge'
 'rejected applications': 'Abgelehnte Anträge'
 'mobility impaired people': 'Menschen mit Mobilitätseinschränkung'
+'gross disbursements': 'Bruttoauszahlungen'
+'net disbursements': 'Nettoauszahlungen'
+'net disbursements to least developed countries': 'Nettoauszahlungen an die am wenigsten entwickelten Länder'
+'net disbursements total': 'Nettoauszahlungen insgesamt'
 '(1) migrant rights': '1) Rechte von Migranten'
 '(2) whole-of-government/evidence-based policies': '2) Gesamtheitliche/Evidenzbasierte Politik'
 '(3) cooperation and partnerships': '3) Zusammenarbeit und Partnerschaften'
@@ -332,6 +343,8 @@
 'safe': 'Eher sicher'
 'unsafe': 'Eher unsicher'
 'very unsafe': 'Sehr unsicher'
+'biodiversity': 'Biodiversität'
+'forestry sector': 'Forstsektor'
 'education': 'Bildung'
 'health': 'Gesundheit'
 'social protection': 'Soziale Sicherung'
@@ -344,10 +357,10 @@
 '4.3.1 (15 to under 65 years)': '4.3.1 (15 bis unter 65 Jahre)'
 '4.3.1 (25 to under 55 years)': '4.3.1 (25 bis unter 55 Jahre)'
 '4.3.1 (55 to under 65 years)': '4.3.1 (55 bis unter 65 Jahre)'
-'construction industry': 'Baugewerbe'
-'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
-'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
-'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
+'construction sector': 'Baugewerbe'
+'hairdressing and beauty sector': 'Frisör- und Kosmetikgewerbe'
+'catering and hotel sector': 'Gaststätten- und Beherbergungsgewerbe'
+'haulage, transport and associated logistics sector': 'Speditions-, Transport- und Logistikgewerbe'
 'armed forces occupations': 'Angehörige der regulären Streitkräfte'
 'managers': 'Führungskräfte'
 'professionals': 'Akademische Berufe'
@@ -461,9 +474,9 @@
 'management instruments': 'Managementinstrumente'
 'financing': 'Finanzierung'
 'communications': 'Kommunikation'
-'urban development and management': 'Stadtentwicklung und Stadtverwaltung'
-'water supply & sanitation': 'Wasserversorgung und Abwasserentsorgung'
-'transport and storage': 'Transport und Lagerung'
+'urban development and management': 'Stadtentwicklung und -verwaltung'
+'water supply and sanitation': 'Wasser und Abwasser/Abfallentsorgung'
+'transport and storage': 'Transport und Lagerhaltung'
 'general government': 'Staat'
 'transport and communications': 'Verkehrs- und Nachrichtenwesen'
 'housing, urban development, regional planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
@@ -474,15 +487,15 @@
 'financial services': 'Finanzwirtschaft'
 'health, environment, sport and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
 'social security, family and youth, labour market policy': 'Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik'
-'energy': 'Energie'
+'energy': 'Energieerzeugung, -verteilung und -effizienz'
 'direct transfers of funds': 'Direkte finanzielle Beihilfen'
 '[a] germany as receiver': '[a] Deutschland als Empfänger'
 '[b] germany as provider': '[b] Deutschland als Bereitsteller'
 'tax breaks': 'Steuervergünstigungen'
 'total': 'Insgesamt'
-'<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
-'<u>additional time series:</u> full-time equivalents': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente'
-'<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
+'employees': 'Beschäftigte'
+'full-time equivalents': 'Vollzeitäquivalente'
+'employed persons': 'Erwerbstätige'
 'water withdrawal': 'Wasserentnahme'
 'water withdrawl by economic activity': 'Wasserentnahme nach Wirtschaftszweig'
 'divers': 'Divers'
@@ -572,11 +585,12 @@
 'national classification': 'Nationale Klassifikation'
 'labour exploitation': 'Arbeitsausbeutung'
 'sexual exploitation': 'Sexuelle Ausbeutung'
-'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
-'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoausgaben)'
-'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
-'private sector flows at market terms (net disbursement)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
-'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
+'official development assistance': 'Öffentliche Entwicklungsleistungen'
+'bilateral and imputed multilateral official development assistance for ldcs': 'Bilaterale und kalkulatorisch multilaterale öffentliche Entwicklungsausgaben für die am wenigsten entwickelten Länder (LDCs)'
+'other official flows': 'Sonstige öffentliche Leistungen'
+'officially supported export credits': 'Öffentlich unterstützte Exportkredite'
+'private grants': 'Private Fördermittel'
+'private sector flows at market terms': 'Private Leistungen zu marktüblichen Bedingungen'
 'administrative offense proceedings': 'Ordnungswidrigkeitenverfahren'
 'criminal proceedings': 'Strafverfahren'
 'tax reliefs': 'Steuervergünstigungen'
@@ -636,14 +650,22 @@
 '+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
 
 #Zeitreihen
+#Z_01011_1
+'population living below the international poverty line': 'Bevölkerung, die unter der internationalen Armutsgrenze lebt'
+#Z_01022_1
+'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
+#Z_01022_2
+'population living below the national poverty line': 'Bevölkerung, die unter der nationalen Armutsgrenze lebt'
+#Z_01022_3
+'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
+#Z_01022_4
+'severely materially and socially deprived persons': 'Unter erheblicher materieller und sozialer Deprivation leidende Personen'
 #Z_01031_3
 'rate of minimum social security benefits': 'Mindestsicherungsquote'
 #Z_01051_1
 'mortality due to exposure to forces of nature': 'Sterblichkeit infolge von Exposition gegenüber Naturkräften'
 #Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
-#Z_01061_2
-'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
+'commitments and gross disbursements of official development assistance for poverty reduction': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen zur Minderung der Armut'
 #Z_01062_1
 'government expenditure': 'Staatsausgaben'
 #Z_01063_1
@@ -677,7 +699,7 @@
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
 #Z_02062_1
-'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'
+'commitments and gross disbursements of official development assistance and other official flows to the agriculture sector': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen für den Landwirtschaftssektor'
 #Z_02071_1
 'export refunds': 'Ausfuhrerstattungen'
 #Z_02081_1
@@ -686,6 +708,8 @@
 'maternal mortality': 'Müttersterblichkeit'
 #Z_03012_1
 'births attended by skilled health personnel': 'Von qualifiziertem Gesundheitspersonal betreute Geburten'
+#Z_03021_1
+'child mortality': 'Kindersterblichkeit'
 #Z_03022_1
 'neonatal mortality': 'Neugeborenensterblichkeit'
 #Z_03031_1
@@ -700,6 +724,8 @@
 'people requiring interventions against neglected tropical diseases': 'Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten'
 #Z_03035_2
 'inpatient treatment of neglected tropical diseases': 'Stationäre Behandlung bei vernachlässigten Tropenkrankheiten'
+#Z_03042_1
+'mortality due to suicide': 'Sterblichkeit infolge von Suizid'
 #Z_03051_1
 'inpatient treatment of substance use disorders': 'Stationäre Behandlung bei Störungen durch Substanzgebrauch'
 #Z_03051_2
@@ -712,8 +738,22 @@
 'births of young women': 'Geburten junger Frauen'
 #Z_03082_1
 'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
+#Z_03091_1
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+#Z_03091_2
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+#Z_03091_3
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+#Z_03091_4
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+#Z_03091_5
+'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+#Z_03091_6
+'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition mit Feinstaub (PMPM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
+#Z_03093_1
+'mortality attributed to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
 #Z_03101_1
 'current tobacco use (age-standardised to who standard population)': 'Tabakkonsum (altersstandardisiert auf die WHO-Standardbevölkerung)'
 #Z_03101_2
@@ -727,7 +767,7 @@
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumokokken-Impfquote zum Schuleintritt'
 #Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
+'commitments and gross disbursements of official development assistance for medical research and basic health sectors': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für medizinische Forschung und grundlegende Gesundheitsversorgung'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
 #Z_03131_1
@@ -753,9 +793,7 @@
 #Z_04081_1
 'schools offering basic services': 'Schulen mit Basisversorgung'
 #Z_04091_1
-'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
-#Z_04091_2
-'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
+'commitments and gross disbursements of official development assistance for scholarships and imputed student costs': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Stipendien und kalkulatorische Studienplatzkosten'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
@@ -821,9 +859,7 @@
 #Z_06061_9
 'area change in comparison to 2015': 'Veränderung der Fläche im Vergleich zu 2015'
 #Z_06071_1
-'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
-#Z_06071_2
-'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
+'commitments and gross disbursements of official development assistance for water and sanitation': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Wasser- und Sanitärversorgung'
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
@@ -834,6 +870,8 @@
 'renewable energy in final energy consumption': 'Erneuerbare Energien am Endenergieverbrauch'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
+#Z_07041_1
+'commitments and gross disbursements of official development assistance and other official flows in support of clean energy research and development and renewable energy production': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zur Förderung von Forschung und Entwicklung im Bereich saubere Energie und zur Erzeugung von Energie aus erneuerbaren Energiequellen'
 #Z_07051_1
 'installed renewable energy-generating capacity': 'Installierte Kapazitäten zur Erzeugung erneuerbarer Energie'
 #Z_08011_1
@@ -875,9 +913,7 @@
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
-'oda (commitments) for aid for trade': 'Zusagen (ODA) für Handelshilfe'
-#Z_08111_2
-'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
+'commitments and gross disbursements of official development assistance for aid for trade': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Handelshilfe'
 #Z_09011_1
 'rural population who live within 2 km of an all-season road': 'Ländliche Bevölkerung, die höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -899,7 +935,7 @@
 #Z_09031_1
 'gross value added of small-scale industries in manufacturing': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 #Z_09032_1
-'micro-businesses  with an equity ratio below 10 percent': 'Kleinstunternehmen mit einer Eigenkapitalquote von unter 10 Prozent'
+'micro-businesses with an equity ratio below 10 percent': 'Kleinstunternehmen mit einer Eigenkapitalquote von unter 10 Prozent'
 #Z_09041_1
 'co₂ emissions per real gdp': 'CO₂-Emissionen zum realen BIP'
 #Z_09041_2
@@ -908,10 +944,6 @@
 'research and developmant expenditure as a proportion of gdp': 'Ausgaben für Forschung und Entwicklung im Verhältnis zum BIP'
 #Z_09052_1
 'persons working in research and development (in full-time equivalents)': 'In Forschung und Entwicklung tätige Personen (in Vollzeitäquivalenten)'
-#Z_09061_1
-'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
-#Z_09061_2
-'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
@@ -929,19 +961,19 @@
 #Z_10042_2
 'gini coefficients': 'Gini-Koeffizientenen'
 #Z_10051_1
-'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
+'(1) tier-1 capital to assets': '1) Regulatorische Verschuldungsquote'
 #Z_10051_2
-'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'(2) regulatory tier 1 capital to risk-weighted assets': '2) Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
 #Z_10051_3
-'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'(3) non-performing loans net of provisions to capital': '3) Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
 #Z_10051_4
-'non-performing loans to total gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'(4) non-performing loans to total gross loans': '4) Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
 #Z_10051_5
-'total return on assets': 'Gesamtkapitalrentabilität'
+'(5) return on assets': '5) Gesamtkapitalrentabilität'
 #Z_10051_6
-'ratio of liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'(6) liquid assets to short-term liabilities': '6) Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
 #Z_10051_7
-'ratio of open foreign exchange position to regulatory capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+'(7) net open position in foreign exchange to capital': '7) Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
@@ -949,7 +981,7 @@
 #Z_10074_1
 'german nationals who are refugees abroad': 'Deutsche Staatsangehörige, die im Ausland auf der Flucht sind'
 #Z_10091_1
-'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
+'net financial flows of official development assistance': 'Netto-Finanzströme für Entwicklungszusammenarbeit'
 #Z_10101_1
 'remittance costs as a proportion of the amount remitted': 'Überweisungskosten im Verhältnis zum überwiesenen Betrag'
 #Z_11011_06
@@ -994,6 +1026,8 @@
 'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 #Z_11072_1
 'victims of non-sexual or sexual harassment': 'Opfer von nicht-sexueller oder sexueller Belästigung'
+#Z_11101_1
+'commitments and gross disbursements of official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen für die Unterstützung städtischer Infrastruktur oder städtischer Infrastrukturprojekte'
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
@@ -1022,6 +1056,8 @@
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
 'tax reliefs and direct transfers of funds': 'Steuervergünstigungen und direkte finanzielle Beihilfen'
+#Z_13021_1
+'presentation of a long-term climate protection strategy': 'Vorlage einer langfristigen Klimaschutzstrategie'
 #Z_13022_1
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -1108,14 +1144,6 @@
 '(a) national strategies and action plans in accordance with the global biodiversity framework': 'a) Nationale Strategien und Aktionspläne gemäß des Globalen Biodiversitätsrahmens'
 #Z_15091_2
 '(b) implementation of the principles of biodiversity in the seea': 'b) Umsetzung der Werte der biologischen Vielfalt in die UGR'
-#Z_15101_1
-'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
-#Z_15101_2
-'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
-#Z_15101_3
-'environmental protection expenditure': 'Umweltschutzausgaben'
-#Z_15111_1
-'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer von vorsätzlicher Tötung'
 #Z_16012_1
@@ -1164,6 +1192,8 @@
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert wurde'
+#Z_16101_1
+'verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists and associated media personnel': 'Bestätigte Fälle von Tötung, Entführung, Verschwindenlassen, willkürlicher Inhaftierung und Folter von Journalistinnen und Journalisten sowie zugehörigem Medienpersonal'
 #Z_16102_1
 'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
@@ -1175,9 +1205,7 @@
 #Z_17012_2
 'financing of domestic expenditures funded by national taxes and insurance contributions': 'Finanzierung der Staatsausgaben durch Steuern und Sozialversicherungsabgaben'
 #Z_17021_1
-'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
-#Z_17021_2
-'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)'
+'proportion of official development assistance to gross national income': 'Verhältnis der öffentlichen Entwicklungsleistungen zum Bruttonationaleinkommen'
 #Z_17032_1
 'personal remittances received from abroad as a percentage of gdp': 'Eingehende Überweisungen von Privatpersonen aus dem Ausland im Verhältnis zum BIP'
 #Z_17051_1
@@ -1191,9 +1219,7 @@
 #Z_17081_1
 'individuals using the internet': 'Internetnutzerinnen und -nutzer'
 #Z_17091_1
-'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
-#Z_17091_2
-'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'Gesamten öffentlichen Bruttoentwicklungsausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'commitments and gross disbursements of official development assistance and other official flows for capacity building and national planning (without south-south cooperations)': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zur Kapazitätsentwicklung und nationalen Entwicklungsplanung (ohne Süd-Süd-Kooperationen)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Jährliche Wachstumsrate des realen BIP'
 #Z_17131_10
@@ -1226,10 +1252,6 @@
 'country-owned results frameworks and planning tools': 'Ländereigene Ergebnisrahmen und Planungsinstrumente'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritte bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
-#Z_17171_1
-'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
-#Z_17171_2
-'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 #Z_17181_1
 'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Indikatoren für nachhaltige Entwicklung mit den im Indikatorentitel geforderten Disaggregationen'
 #Z_17182_1
@@ -1237,9 +1259,7 @@
 #Z_17183_1
 'national statistical plan that is fully funded and under implementation': 'Vollständig finanzierter und in Umsetzung befindlicher nationaler statistischer Plan'
 #Z_17191_1
-'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zur Stärkung statistischer Kapazitäten'
-#Z_17191_2
-'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zur Stärkung statistischer Kapazitäten'
+'commitments and gross disbursements of official development assistance to strengthen statistical capacity': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen zur Stärkung statistischer Kapazitäten'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
@@ -1277,23 +1297,59 @@ age of victim: Alter der Opfer
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'länder': 'Bundesland'
+'type of flow': 'Art des Finanzstroms'
+'construction industry': 'Baugewerbe'
+'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
+'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
+'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
+'water supply & sanitation': 'Wasserversorgung und Abwasserentsorgung'
+'<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
+'<u>additional time series:</u> full-time equivalents': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente'
+'<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
+'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
+'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoausgaben)'
+'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
+'private sector flows at market terms (net disbursement)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
+'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
+'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
+'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
+'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'
+'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
+'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
+'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
+'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
+'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
+'oda (commitments) for aid for trade': 'Zusagen (ODA) für Handelshilfe'
+'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
+'micro-businesses  with an equity ratio below 10 percent': 'Kleinstunternehmen mit einer Eigenkapitalquote von unter 10 Prozent'
+'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
+'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
+'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
+'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'non-performing loans to total gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'total return on assets': 'Gesamtkapitalrentabilität'
+'ratio of liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'ratio of open foreign exchange position to regulatory capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
+'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
+'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
+'environmental protection expenditure': 'Umweltschutzausgaben'
+'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
+'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
+'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)'
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'Gesamten öffentlichen Bruttoentwicklungsausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
+'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
+'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zur Stärkung statistischer Kapazitäten'
+'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zur Stärkung statistischer Kapazitäten'
 'type of sector': 'Art des Sektors'
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'
-'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
-'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
-'severely materially and socially deprived persons': 'Unter erheblicher materieller und sozialer Deprivation leidende Personen'
-'child mortality': 'Kindersterblichkeit'
 'mortality at the age of 30 to under 70 years': 'Sterblichkeit im Alter von 30 bis unter 70 Jahren'
-'mortality due to suicide': 'Sterblichkeit infolge von Suizid'
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
-'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
-'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
-'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
-'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition mit Feinstaub (PMPM₂,₅) in der Bevölkerung ab 25 Jahren'
-'mortality attributed to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
 'percent of gdp': 'Prozent des BIP'
 'type of ict competence': 'Art der IKT-Kompetenz'
 "'area '": 'Bereich'
