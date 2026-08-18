@@ -303,7 +303,9 @@
 'water supply; sewerage, waste management and remediation activities (isic e)': 'Water supply; sewerage, waste management and remediation activities (ISIC E)'
 'other services (isic e, g to t)': 'Other services (ISIC E, G to T)'
 'construction (isic f)': 'Construction (ISIC F)'
+'wholesale and retail trade; repair of motor vehicles and motorcycles (isic g)': 'Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G)'
 'other services (isic g, h, i, k, l, n, q, r, s, t and u)': 'Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)'
+'verkehr und lagerei (isic h)': 'Verkehr und Lagerei (ISIC H)'
 'information and communication (isic j)': 'Information and communication (ISIC J)'
 'professional, scientific and technical activities (isic m)': 'Professional, scientific and technical activities (ISIC M)'
 'public administration and defence; compulsory social security (isic o)': 'Public administration and defence; compulsory social security (ISIC O)'
@@ -894,10 +896,6 @@
 'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
 #Z_08071_1
 'victims of child labour': 'Victims of child labour'
-#Z_08081_1
-'fatal occupational accidents': 'Fatal occupational accidents'
-#Z_08081_2
-'non-fatal occupational accidents': 'Non-fatal occupational accidents'
 #Z_08082_1
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation'
 #Z_08091_1
@@ -1293,6 +1291,8 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'fatal occupational accidents': 'Fatal occupational accidents'
+'non-fatal occupational accidents': 'Non-fatal occupational accidents'
 'länder': 'Länder'
 'type of flow': 'Type of flow'
 'construction industry': 'Construction industry'

@@ -303,7 +303,9 @@
 'water supply; sewerage, waste management and remediation activities (isic e)': 'Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen (WZ-Abschnitt E)'
 'other services (isic e, g to t)': 'Andere Dienstleistungen (WZ-Abschnitte E, G bis T)'
 'construction (isic f)': 'Baugewerbe (WZ-Abschnitt F)'
+'wholesale and retail trade; repair of motor vehicles and motorcycles (isic g)': 'Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (WZ-Abschnitt G)'
 'other services (isic g, h, i, k, l, n, q, r, s, t and u)': 'Andere Dienstleistungen (WZ-Abschnitte G, H, I, K, L, N, Q, R, S, T und U)'
+'verkehr und lagerei (isic h)': 'Verkehr und Lagerei (WZ-Abschnitt H)'
 'information and communication (isic j)': 'Information und Kommunikation (WZ-Abschnitt J)'
 'professional, scientific and technical activities (isic m)': 'Freiberufliche, wissenschaftliche und technische Dienstleistungen (WZ-Abschnitt M)'
 'public administration and defence; compulsory social security (isic o)': 'Öffentliche Verwaltung, Verteidigung; Sozialversicherung (WZ-Abschnitt O)'
@@ -894,10 +896,6 @@
 'neet rates from young people (15 to under 25 years)': 'NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)'
 #Z_08071_1
 'victims of child labour': 'Opfer von Kinderarbeit'
-#Z_08081_1
-'fatal occupational accidents': 'Tödliche Arbeitsunfälle'
-#Z_08081_2
-'non-fatal occupational accidents': 'Nicht-tödliche Arbeitsunfälle'
 #Z_08082_1
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationalen Gesetzesgrundlagen'
 #Z_08091_1
@@ -1299,6 +1297,8 @@ age of victim: Alter der Opfer
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'fatal occupational accidents': 'Tödliche Arbeitsunfälle'
+'non-fatal occupational accidents': 'Nicht-tödliche Arbeitsunfälle'
 'länder': 'Bundesland'
 'type of flow': 'Art des Finanzstroms'
 'construction industry': 'Baugewerbe'
