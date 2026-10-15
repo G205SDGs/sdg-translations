@@ -150,6 +150,7 @@
 'type of classification': 'Type of classification'
 'form of exploitation': 'Form of exploitation'
 'type of financial flow': 'Type of financial flow'
+'type of malnutrition': 'Type of malnutrition'
 'type of proceeding': 'Type of proceeding'
 'type of fiscal policy tool': 'Type of fiscal policy tool'
 'type of waste': 'Type of waste'
@@ -532,8 +533,8 @@
 'medium-high-tech': 'Medium-high-tech'
 'high-tech': 'High-tech'
 '(1) maternity care': '(1) Maternity care'
-'(2) contraception and family planning': '(2) Contraception and family planning'
-'(3) comprehensive sexuality education and information': '(3) Comprehensive sexuality education and information'
+'(2) contraception services': '(2) Contraception services'
+'(3) sexuality education': '(3) Sexuality education'
 '(4) hiv and hpv': '(4) HIV and HPV'
 'sports and recreational activities': 'Sports and Recreational activities'
 'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
@@ -593,6 +594,8 @@
 'officially supported export credits': 'Officially supported export credits'
 'private grants': 'Private grants'
 'private sector flows at market terms': 'Private sector flows at market terms'
+'overweight': 'Overweight'
+'wasting': 'Wasting'
 'administrative offense proceedings': 'Administrative Offense Proceedings'
 'criminal proceedings': 'Criminal Proceedings'
 'tax reliefs': 'Tax reliefs'
@@ -679,9 +682,7 @@
 #Z_02021_1
 'stunting among children': 'Stunting among children'
 #Z_02022_1
-'overweight': 'Overweight'
-#Z_02022_2
-'wasting': 'Wasting'
+'wasting and overweight': 'Wasting and Overweight'
 #Z_02023_1
 'hb concentrations in female adolescents': 'Hb concentrations in female adolescents'
 #Z_02031_1
@@ -1293,6 +1294,8 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'(2) contraception and family planning': '(2) Contraception and family planning'
+'(3) comprehensive sexuality education and information': '(3) Comprehensive sexuality education and information'
 'environmental protection and/or resource management sector': 'Environmental protection and/or resource management sector'
 'mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)': 'Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)'
 'agriculture, forestry and fishing (isic a)': 'Agriculture, forestry and fishing (ISIC A)'
